@@ -1,0 +1,395 @@
+[
+ {
+  "id": "life_of_suit",
+  "type": "flow",
+  "title": "The life of a civil suit",
+  "width": 760,
+  "steps": [
+   {
+    "title": "Plaint presented",
+    "text": "Suit instituted; registered; court fee and process fee paid",
+    "law": "s. 26; O. IV; O. VII",
+    "color": "navy"
+   },
+   {
+    "title": "Scrutiny of the plaint",
+    "text": "Return if no jurisdiction; reject if no cause of action / barred by law",
+    "law": "O. VII rr. 10–11",
+    "color": "red"
+   },
+   {
+    "title": "Summons to defendant",
+    "text": "Personal, post A/D, affixation, substituted service",
+    "law": "s. 27; O. V",
+    "color": "teal"
+   },
+   {
+    "title": "Appearance or default",
+    "text": "Ex parte, dismissal, restoration, setting aside",
+    "law": "O. IX",
+    "color": "orange"
+   },
+   {
+    "title": "Written statement",
+    "text": "Specific denials, new pleas, set-off",
+    "law": "O. VIII",
+    "color": "purple"
+   },
+   {
+    "title": "Narrowing the dispute",
+    "text": "Examination of parties, discovery, admissions, documents",
+    "law": "O. X – O. XIII",
+    "color": "blue"
+   },
+   {
+    "title": "Framing of issues",
+    "text": "Material propositions affirmed and denied; onus fixed",
+    "law": "O. XIV – O. XV",
+    "color": "green"
+   },
+   {
+    "title": "Evidence and hearing",
+    "text": "Witness lists in 7 days; adjournments with costs; r. 3 default",
+    "law": "O. XVI – O. XVIII; s. 35A",
+    "color": "brown"
+   },
+   {
+    "title": "Judgment and decree",
+    "text": "Issue-wise findings; actual costs",
+    "law": "s. 33; s. 35; O. XX",
+    "color": "navy"
+   },
+   {
+    "title": "After the decree (Topic 2)",
+    "text": "Appeal, review, revision, execution, s. 12(2)",
+    "law": "ss. 96–115; O. XXI",
+    "color": "slate"
+   }
+  ]
+ },
+ {
+  "id": "court_hierarchy",
+  "type": "org",
+  "title": "Civil courts of the Islamabad Capital Territory",
+  "nodeMax": 230,
+  "root": {
+   "title": "Supreme Court of Pakistan",
+   "sub": "Art. 185 Constitution",
+   "color": "navy",
+   "children": [
+    {
+     "title": "Islamabad High Court",
+     "sub": "IHC Act 2010 · first appeal from DJ/ADJ original decrees (s. 17) · second appeal (s. 100) · revision (s. 115)",
+     "color": "teal",
+     "children": [
+      {
+       "title": "District Judge (East / West)",
+       "sub": "unlimited original jurisdiction (s. 7) · hears ALL appeals from Civil Judges (s. 18(1), 2025)",
+       "color": "orange",
+       "children": [
+        {
+         "title": "Additional District Judges",
+         "sub": "exercise DJ's powers in assigned matters (s. 6)",
+         "color": "brown"
+        },
+        {
+         "title": "Civil Judges",
+         "sub": "value limits fixed by IHC (s. 9) · suits vs State only by unlimited-value Civil Judge (s. 24)",
+         "color": "red"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "id": "jurisdiction_kinds",
+  "type": "cards",
+  "cols": 3,
+  "title": "Kinds of jurisdiction of a civil court",
+  "cards": [
+   {
+    "title": "Subject-matter (inherent)",
+    "color": "red",
+    "text": "The kind of dispute: suits of a civil nature (s. 9). Lack of it makes a decree a nullity; consent cannot cure it."
+   },
+   {
+    "title": "Pecuniary",
+    "color": "orange",
+    "text": "Money value: s. 6 CPC; DJ unlimited (s. 7 Ordinance); Civil Judges as fixed by IHC (s. 9)."
+   },
+   {
+    "title": "Territorial",
+    "color": "blue",
+    "text": "Geographical area: ss. 16–20 CPC; local limits fixed by IHC (s. 10 Ordinance). Objection waivable (s. 21)."
+   },
+   {
+    "title": "Original",
+    "color": "teal",
+    "text": "Trying a case at first instance: suits and original petitions."
+   },
+   {
+    "title": "Appellate",
+    "color": "purple",
+    "text": "Hearing appeals: ss. 96–108 CPC; ss. 17–18 Ordinance."
+   },
+   {
+    "title": "Revisional",
+    "color": "navy",
+    "text": "Correcting jurisdictional errors where no appeal lies: s. 115 CPC (High Court and District Court)."
+   },
+   {
+    "title": "Exclusive",
+    "color": "maroon",
+    "text": "Only one forum can try: e.g. Family Court, Rent Controller — civil court barred."
+   },
+   {
+    "title": "Concurrent",
+    "color": "green",
+    "text": "Several courts can try: plaintiff chooses; s. 15 lowest grade; s. 22 transfer."
+   },
+   {
+    "title": "Inherent powers",
+    "color": "slate",
+    "text": "s. 151: orders for ends of justice / to prevent abuse — with reasons (Islamabad 2020). Supplements, never creates, jurisdiction."
+   }
+  ]
+ },
+ {
+  "id": "s9_test",
+  "type": "decide",
+  "title": "Is the civil court's jurisdiction barred? (s. 9 CPC)",
+  "q": [
+   {
+    "ask": "Is the suit of a civil nature — does it involve a civil right (property, office, status, contract, tort)?",
+    "yes": "Go to question 2. Religious questions do not matter if property or office is in issue (Explanation).",
+    "no": "Not maintainable under s. 9 (purely religious, social or political question)."
+   },
+   {
+    "ask": "Does a statute EXPRESSLY bar civil courts (\"no civil court shall entertain …\")?",
+    "yes": "Barred — unless the act complained of falls in question 4.",
+    "no": "Go to question 3."
+   },
+   {
+    "ask": "Is there an IMPLIED bar — a statute creating a new right with its own complete remedy, or public policy?",
+    "yes": "Barred — unless the act complained of falls in question 4.",
+    "no": "Civil court HAS jurisdiction (presumption under s. 9)."
+   },
+   {
+    "ask": "Was the special forum's act without jurisdiction, mala fide, coram non judice, or against natural justice / not under the Act at all?",
+    "yes": "Civil court CAN examine it despite the ouster clause (Mask & Co.; Abbasia Cooperative Bank PLD 1997 SC 3).",
+    "no": "Civil court cannot interfere; use the remedies in the special statute."
+   }
+  ]
+ },
+ {
+  "id": "place_of_suing",
+  "type": "decide",
+  "title": "Where to sue? (ss. 15–20 CPC)",
+  "q": [
+   {
+    "ask": "Is the suit about immovable property (recovery, partition, mortgage, other right, wrong to it)?",
+    "yes": "Sue where the property is (s. 16); mortgage suits also where cause of action arose; personal-obedience relief also where defendant resides (proviso); several districts — any (s. 17).",
+    "no": "Go to question 2."
+   },
+   {
+    "ask": "Is it for compensation for a wrong to the person or to movable property?",
+    "yes": "Plaintiff may sue where the wrong was done OR where the defendant resides / works (s. 19).",
+    "no": "Go to question 3 (residuary rule)."
+   },
+   {
+    "ask": "Any other suit (contract, money, declaration, etc.)",
+    "yes": "Where the defendant (each, or any with leave / acquiescence) resides, carries on business or works for gain, OR where the cause of action wholly or partly arose (s. 20). Corporation: principal or subordinate office (Expl. II).",
+    "no": "Check any special law (Family Courts Act, rent laws) for its own territorial rule."
+   },
+   {
+    "ask": "Which grade of court?",
+    "yes": "The lowest grade competent to try it (s. 15), within its pecuniary limits (s. 6).",
+    "no": "Objection to place of suing: take it in the trial court before issues (s. 21)."
+   }
+  ]
+ },
+ {
+  "id": "rj_conditions",
+  "type": "tree",
+  "root": "Res judicata — s. 11 CPC",
+  "rootSub": "all five must be present",
+  "cols": 5,
+  "children": [
+   {
+    "title": "1. Same matter",
+    "color": "navy",
+    "text": "Directly and substantially in issue in both suits — actually or constructively (Expl. III, IV)"
+   },
+   {
+    "title": "2. Same parties",
+    "color": "teal",
+    "text": "Or parties under whom they claim (privies); representative suits (Expl. VI)"
+   },
+   {
+    "title": "3. Same title",
+    "color": "purple",
+    "text": "Litigating in the same capacity in both suits"
+   },
+   {
+    "title": "4. Competent court",
+    "color": "orange",
+    "text": "Former court competent to try the later suit; appeal rights irrelevant (Expl. II)"
+   },
+   {
+    "title": "5. Heard and finally decided",
+    "color": "red",
+    "text": "Decided on merits and final; 'former' = decided first (Expl. I)"
+   }
+  ]
+ },
+ {
+  "id": "service_modes",
+  "type": "flow",
+  "title": "Service of summons — Order V",
+  "width": 760,
+  "steps": [
+   {
+    "title": "Personal service",
+    "text": "On defendant, his authorised agent, business manager, or adult male family member residing with him",
+    "law": "rr. 10–16",
+    "color": "navy"
+   },
+   {
+    "title": "Registered post A/D (simultaneous)",
+    "text": "Acknowledgment or postal refusal endorsement = prima facie proof",
+    "law": "r. 10-A",
+    "color": "teal"
+   },
+   {
+    "title": "Affixation",
+    "text": "Defendant refuses / not found after due diligence; identifiers named; officer examined",
+    "law": "rr. 17, 19",
+    "color": "orange"
+   },
+   {
+    "title": "Substituted service by court order",
+    "text": "Affixing at last residence, electronic means, courier, beat of drum, press, any mode — simultaneously",
+    "law": "r. 20",
+    "color": "purple"
+   },
+   {
+    "title": "Special cases",
+    "text": "Other district, prison, abroad, public officers, soldiers; letter instead of summons",
+    "law": "rr. 21–30",
+    "color": "slate"
+   }
+  ]
+ },
+ {
+  "id": "order9_map",
+  "type": "cards",
+  "cols": 2,
+  "title": "Order IX — who is absent, what follows, what is the remedy",
+  "cards": [
+   {
+    "title": "Neither party appears (r. 3) / process fee unpaid (r. 2)",
+    "color": "slate",
+    "bullets": [
+     "Suit may be dismissed",
+     "Remedy: fresh suit (limitation permitting) or restoration on sufficient cause (r. 4)"
+    ]
+   },
+   {
+    "title": "Summons unserved, no step for 3 months (r. 5)",
+    "color": "brown",
+    "bullets": [
+     "Suit dismissed against that defendant",
+     "Remedy: fresh suit (r. 5(2))"
+    ]
+   },
+   {
+    "title": "Plaintiff present, defendant absent (r. 6)",
+    "color": "orange",
+    "bullets": [
+     "Served: ex parte; decree may be passed without evidence",
+     "Not served: fresh summons; served late: postpone",
+     "Before decree: join on good cause (r. 7)"
+    ]
+   },
+   {
+    "title": "Defendant present, plaintiff absent (r. 8)",
+    "color": "red",
+    "bullets": [
+     "Suit dismissed (decree on any admitted part)",
+     "No fresh suit (r. 9); restore on sufficient cause — Art. 163, 30 days"
+    ]
+   },
+   {
+    "title": "Ex parte decree (r. 13)",
+    "color": "navy",
+    "bullets": [
+     "Set aside if summons not duly served OR sufficient cause",
+     "Not for mere irregularity if defendant knew the date",
+     "Art. 164: 30 days from decree / knowledge; s. 5 LA applies"
+    ]
+   },
+   {
+    "title": "Other remedies against ex parte decree",
+    "color": "teal",
+    "bullets": [
+     "Appeal: s. 96(2) (Islamabad text)",
+     "Review: O. XLVII",
+     "s. 12(2): fraud / misrepresentation / no jurisdiction"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "issue_steps",
+  "type": "flow",
+  "title": "Framing issues in seven steps",
+  "width": 760,
+  "steps": [
+   {
+    "title": "List the plaintiff's material facts",
+    "text": "Everything he must prove for each relief",
+    "law": "O. XIV r. 1(2)",
+    "color": "navy"
+   },
+   {
+    "title": "Mark denials and new pleas",
+    "text": "Fraud, limitation, payment, non-joinder, jurisdiction, valuation, res judicata",
+    "law": "O. VIII rr. 2–5",
+    "color": "teal"
+   },
+   {
+    "title": "Drop admitted facts",
+    "text": "No issue on what is admitted",
+    "law": "O. VIII r. 5",
+    "color": "slate"
+   },
+   {
+    "title": "One issue per disputed proposition",
+    "text": "\"Whether …?\" — precise, using pleaded words",
+    "law": "O. XIV r. 1(3)",
+    "color": "purple"
+   },
+   {
+    "title": "Fix the onus",
+    "text": "OPP / OPD — on the party who asserts",
+    "law": "Arts. 117–118 QSO",
+    "color": "orange"
+   },
+   {
+    "title": "Order the issues; law issues first if decisive",
+    "text": "Jurisdiction, limitation, bar by law",
+    "law": "O. XIV r. 2",
+    "color": "green"
+   },
+   {
+    "title": "Add the last issue: \"Relief\"",
+    "text": "Amend or add issues any time before decree",
+    "law": "O. XIV r. 5",
+    "color": "red"
+   }
+  ]
+ }
+]

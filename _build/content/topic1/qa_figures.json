@@ -1,0 +1,172 @@
+[
+ {"id": "a1_map", "type": "answermap", "question": "WHAT are the TYPES of JURISDICTION of civil courts, and HOW are they exercised?", "sub": "CPC 1908 · Civil Courts Ordinance 1962",
+  "intro": "Jurisdiction is general in subject (s. 9) but limited by value, place and stage; inherent defects make a decree void, while defects of place and value are waivable.",
+  "left": [
+   {"title": "(1) Introduction — the power to decide", "bullets": ["Definition: legal authority to hear and decide", "Comes from Constitution or statute, never consent"]},
+   {"title": "(2) The foundation — s. 9", "bullets": ["All suits of a civil nature unless barred", "Ubi jus ibi remedium; bar strictly construed"]},
+   {"title": "(3) Subject-matter jurisdiction", "bullets": ["Nature of dispute; special forums excluded", "Lack of it = nullity (Kiran Singh)"]},
+   {"title": "(4) Pecuniary jurisdiction", "bullets": ["s. 6 CPC; DJ unlimited (s. 7)", "Civil Judges: limits by IHC (s. 9 Ordinance)"]},
+   {"title": "(5) Territorial jurisdiction", "bullets": ["ss. 16–20: property, wrongs, residence, cause of action", "Local limits by High Court (s. 10)"]},
+   {"title": "(6) Original, appellate, revisional", "bullets": ["s. 96; ss. 17–18 Ordinance (2025)", "s. 115: 90 days, 6 months (Islamabad)"]}
+  ],
+  "right": [
+   {"title": "(7) Exclusive and concurrent", "bullets": ["Family Court etc. exclusive", "Concurrent: lowest grade (s. 15); transfer (s. 22)"]},
+   {"title": "(8) Special jurisdictions (Ordinance)", "bullets": ["Suits vs State: unlimited-value Civil Judge (s. 24)", "Small causes (s. 11); succession (s. 12)"]},
+   {"title": "(9) Inherent powers", "bullets": ["s. 151 with recorded reasons", "Supplements, never creates, jurisdiction"]},
+   {"title": "(10) Objections and consequences", "bullets": ["Inherent defect: void at any stage", "Place / value: waivable (s. 21; s. 99)"]},
+   {"title": "(11) Ouster clauses", "bullets": ["Acts without jurisdiction / mala fide reviewable", "Abbasia Cooperative Bank; Dhulabhai"]},
+   {"title": "(12) Conclusion — one court, many powers", "bullets": ["General in subject, limited in value, place, stage", "Balance: rule of law and finality"]}
+  ]},
+ {"id": "a2_map", "type": "answermap", "question": "WHAT are the FORUMS of CIVIL APPEAL under the Civil Courts Ordinance?", "sub": "ss. 17–18 · as amended for Islamabad in 2025",
+  "intro": "The CPC gives the right of appeal; the Ordinance fixes the forum: DJ / ADJ original → High Court; Civil Judge → District Judge in all cases in Islamabad (Act XV of 2025).",
+  "left": [
+   {"title": "(1) Appeal — a right given by statute", "bullets": ["Rehearing on facts and law", "Right from CPC; forum from Ordinance"]},
+   {"title": "(2) The courts in the hierarchy", "bullets": ["DJ, ADJ, Civil Judge (s. 3)", "s. 3 CPC adopts it (Islamabad)"]},
+   {"title": "(3) From DJ / ADJ — s. 17", "bullets": ["Original decrees → High Court", "ADJ no wider than DJ (s. 17(2))"]},
+   {"title": "(4) From Civil Judges — s. 18(1)", "bullets": ["All appeals → District Judge", "Act XV of 2025: value split removed"]},
+   {"title": "(5) To an ADJ — s. 18(2)", "bullets": ["When DJ assigns the function", "Distribution under s. 15"]},
+   {"title": "(6) Civil Judge as appellate court — s. 18(3)", "bullets": ["Only by High Court notification", "Deemed District Court; else coram non judice"]}
+  ],
+  "right": [
+   {"title": "(7) Appeals from orders", "bullets": ["s. 104 and O. XLIII r. 1 only", "Forum follows the decree (s. 106)"]},
+   {"title": "(8) Second appeal and revision", "bullets": ["s. 100: law only, to High Court", "s. 115: 90 days; decided in 6 months"]},
+   {"title": "(9) The appellate map", "bullets": ["Figure: every route in one picture"]},
+   {"title": "(10) Rationale of the scheme", "bullets": ["Two reviews of fact, one of law", "Proximity, cost, uniformity"]},
+   {"title": "(11) Conclusion", "bullets": ["Forum follows rank of the court", "Islamabad: District Judge hears all Civil Judge appeals"]}
+  ]},
+ {"id": "a2_appeals", "type": "org", "title": "Routes of appeal — Islamabad Capital Territory", "nodeMax": 240, "root":
+  {"title": "Supreme Court", "sub": "Art. 185 Constitution", "color": "navy", "children": [
+   {"title": "Islamabad High Court", "sub": "first appeal from DJ / ADJ original decrees (s. 17) · second appeal (s. 100) · revision (s. 115)", "color": "teal", "children": [
+    {"title": "District Judge / ADJ (appellate)", "sub": "first appeal from every Civil Judge decree or appealable order (s. 18(1)–(2), 2025)", "color": "orange", "children": [
+     {"title": "Civil Judge (trial court)", "sub": "decree → s. 96 · listed orders → s. 104 / O. XLIII", "color": "red"}]},
+    {"title": "District Judge / ADJ (original)", "sub": "unlimited value suits (s. 7) · appeal → High Court (s. 17)", "color": "brown"},
+    {"title": "Notified Civil Judge", "sub": "deemed District Court for appeals referred by IHC notification (s. 18(3))", "color": "purple"}
+   ]}]}
+ },
+ {"id": "a3_map", "type": "answermap", "question": "COURTS to try ALL CIVIL SUITS unless BARRED — discuss all aspects", "sub": "s. 9 CPC 1908",
+  "intro": "Jurisdiction is the rule and exclusion the exception: a bar must be express or clearly implied, is strictly construed, and never protects acts outside the statute.",
+  "left": [
+   {"title": "(1) Introduction — the charter", "bullets": ["Text of s. 9", "Ubi jus ibi remedium"]},
+   {"title": "(2) The two conditions", "bullets": ["Civil nature", "Not expressly or impliedly barred"]},
+   {"title": "(3) Suit of a civil nature", "bullets": ["Private right: property, office, status", "Metropolitan; Ganga Bai"]},
+   {"title": "(4) The Explanation", "bullets": ["Religious questions do not oust", "Property or office in issue"]},
+   {"title": "(5) Express bar", "bullets": ["Family Courts Act; revenue laws", "Applied within its terms"]},
+   {"title": "(6) Implied bar", "bullets": ["New right + complete remedy; public policy", "Islamabad Rent Restriction Ordinance 2001"]}
+  ],
+  "right": [
+   {"title": "(7) Presumption and strict construction", "bullets": ["Exclusion not readily inferred", "Mask & Co.; burden on objector"]},
+   {"title": "(8) Limits of ouster clauses", "bullets": ["No jurisdiction, mala fide, coram non judice", "Abbasia Cooperative Bank; Dhulabhai"]},
+   {"title": "(9) How the court decides", "bullets": ["Plaint only — O. VII r. 11(d)", "Else issue; law first (O. XIV r. 2)"]},
+   {"title": "(10) Consequences", "bullets": ["Decree without jurisdiction = nullity", "Kiran Singh; s. 12(2)"]},
+   {"title": "(11) Illustration", "bullets": ["Allotment cancelled without notice", "Suit maintainable despite finality clause"]},
+   {"title": "(12) Conclusion", "bullets": ["Civil court: guardian of civil rights", "Arts. 4 and 10A"]}
+  ]},
+ {"id": "a4_map", "type": "answermap", "question": "DEFINE and DISTINGUISH res sub judice and res judicata; explain CONSTRUCTIVE res judicata", "sub": "ss. 10–11 CPC",
+  "intro": "Two stages of one policy — one matter, one decision: s. 10 freezes a parallel trial; s. 11 (with Explanation IV) forbids reopening what was, or should have been, decided.",
+  "left": [
+   {"title": "(1) Introduction", "bullets": ["Pending vs decided", "Parallel vs repeat litigation"]},
+   {"title": "(2) Res sub judice — s. 10", "bullets": ["Six conditions", "Trial stayed; interim orders allowed"]},
+   {"title": "(3) Res judicata — s. 11", "bullets": ["Five conditions", "Three maxims; Sheoparsan Singh"]},
+   {"title": "(4) The Explanations", "bullets": ["I former = decided first; II appeal irrelevant", "III, V, VI"]},
+   {"title": "(5) Constructive res judicata", "bullets": ["Explanation IV: might and ought", "Henderson v. Henderson"]},
+   {"title": "(6) Illustrations", "bullets": ["Gift deed — grounds of attack", "Mortgage — grounds of defence"]}
+  ],
+  "right": [
+   {"title": "(7) Where they apply", "bullets": ["Stages of suit, writs, co-defendants", "Not: no jurisdiction, pure law, interlocutory"]},
+   {"title": "(8) Distinction (table)", "bullets": ["Status, object, effect, foreign court"]},
+   {"title": "(9) Expl. IV vs O. II r. 2", "bullets": ["Grounds vs claims / reliefs"]},
+   {"title": "(10) Procedure", "bullets": ["Plead (O. VIII r. 2); prove pleadings and judgment", "Reject if apparent (O. VII r. 11(d))"]},
+   {"title": "(11) Conclusion", "bullets": ["Public interest + private justice", "One matter, one decision"]}
+  ]},
+ {"id": "a5_map", "type": "answermap", "question": "Does a PRECEPT court have EQUAL POWERS? WHERE does a s. 12(2) application lie — Lahore or Hyderabad?", "sub": "ss. 38, 39, 42, 46, 12(2) CPC",
+  "intro": "A precept court only attaches property for two months as agent of the decree court; s. 12(2) lies to the court that passed the final decree — Lahore.",
+  "left": [
+   {"title": "(1) The issues", "bullets": ["Powers of precept court", "Forum for s. 12(2)"]},
+   {"title": "(2) Courts that may execute", "bullets": ["Decree court or transferee (s. 38)", "Transfer of decree (ss. 39–40)"]},
+   {"title": "(3) What a precept is — s. 46", "bullets": ["Direction to attach specified property", "Lapses after two months unless extended"]},
+   {"title": "(4) Transferee court's powers — s. 42", "bullets": ["\"as if it had been passed by itself\"", "Only for a decree sent to it"]},
+   {"title": "(5) Answer (i)", "bullets": ["Precept court: limited, delegated power", "Not equal to decree court"]}
+  ],
+  "right": [
+   {"title": "(6) Section 12(2)", "bullets": ["Fraud, misrepresentation, no jurisdiction", "Application, not separate suit"]},
+   {"title": "(7) \"Final\" decree", "bullets": ["Trial court or court of merger", "Executing court cannot go behind decree"]},
+   {"title": "(8) Rationale", "bullets": ["Record, single forum, no forum-shopping"]},
+   {"title": "(9) Application to facts", "bullets": ["Decree at Lahore; precept at Hyderabad", "Application lies at Lahore"]},
+   {"title": "(10) If filed at Hyderabad", "bullets": ["Return to proper court", "Attachment objections: O. XXI r. 58"]},
+   {"title": "(11) Conclusion", "bullets": ["Two direct answers"]}
+  ]},
+ {"id": "a6_map", "type": "answermap", "question": "GROUNDS for AMENDMENT, REJECTION and RETURN of plaint — and the difference", "sub": "O. VI r. 17 · O. VII rr. 10–13",
+  "intro": "Amend to cure, return to redirect, reject to end a plaint that can never succeed — each with its own grounds, effect and remedy.",
+  "left": [
+   {"title": "(1) Introduction", "bullets": ["Three tools for a defective plaint"]},
+   {"title": "(2) Amendment — O. VI r. 17", "bullets": ["Real controversy; no uncompensable injustice", "Refused: new case, limitation, admission, mala fide"]},
+   {"title": "(3) Rejection — O. VII r. 11", "bullets": ["No cause of action; value; stamp; barred", "Plaint only; deemed decree; appeal s. 96"]},
+   {"title": "(4) Return — O. VII r. 10", "bullets": ["Want of jurisdiction", "Appeal O. XLIII r. 1(a); s. 14 LA"]}
+  ],
+  "right": [
+   {"title": "(5) Distinction (table)", "bullets": ["Ground, nature, remedy, future, limitation"]},
+   {"title": "(6) Relationship", "bullets": ["Amendment first; rejection drastic", "Return is about forum"]},
+   {"title": "(7) Illustration", "bullets": ["Rawalpindi flat sued in Islamabad", "All three tools on one set of facts"]},
+   {"title": "(8) Conclusion", "bullets": ["Justice on merits; s. 1(4)"]}
+  ]},
+ {"id": "a7_map", "type": "answermap", "question": "How does the CPC deal with MISJOINDER, NON-JOINDER, STRIKING OUT, and NECESSARY and PROPER parties?", "sub": "Order I CPC (quotation: r. 9)",
+  "intro": "Wrong or missing parties do not defeat a suit (r. 9) because the court can add or strike out at any stage (r. 10) — except where a necessary party is missing.",
+  "left": [
+   {"title": "(1) Introduction", "bullets": ["Right parties for complete decision", "Avoid multiplicity (O. II r. 1)"]},
+   {"title": "(2) Joinder — rr. 1 and 3", "bullets": ["Same transaction + common question", "Separate trials (r. 2)"]},
+   {"title": "(3) Meaning", "bullets": ["Misjoinder: wrong person joined", "Non-joinder: right person omitted"]},
+   {"title": "(4) The rule — r. 9", "bullets": ["No suit defeated by misjoinder / non-joinder"]},
+   {"title": "(5) The exception", "bullets": ["Necessary party missing = suit fails"]}
+  ],
+  "right": [
+   {"title": "(6) Necessary and proper parties", "bullets": ["Kasturi: relief + effective decree tests", "Razia Begum: legal interest"]},
+   {"title": "(7) Striking out and adding — r. 10", "bullets": ["Any stage, even suo motu", "Consent; amendment; limitation (s. 22 LA)"]},
+   {"title": "(8) Objections — r. 13", "bullets": ["Earliest, before issues; else waived"]},
+   {"title": "(9) Related rules", "bullets": ["r. 8 representative suits", "O. II rr. 3–7; s. 99"]},
+   {"title": "(10) Illustration", "bullets": ["Partition without sisters", "Tenant struck out"]},
+   {"title": "(11) Conclusion", "bullets": ["Flexibility with fairness"]}
+  ]},
+ {"id": "a8_map", "type": "answermap", "question": "SETTING ASIDE ex parte orders and decrees; DISMISSAL in presence or absence of defendants", "sub": "Order IX CPC",
+  "intro": "Order IX gives every absent party a way back if the absence was not his fault, but bars a fresh suit to the negligent plaintiff under r. 9.",
+  "left": [
+   {"title": "(1) Introduction", "bullets": ["Audi alteram partem vs vigilance"]},
+   {"title": "(2) Ex parte proceedings — r. 6", "bullets": ["Due service first", "Second summons / postponement"]},
+   {"title": "(3) Ex parte order — r. 7", "bullets": ["Good cause; heard from that stage"]},
+   {"title": "(4) Ex parte decree — r. 13", "bullets": ["No due service or sufficient cause", "Provisos; Art. 164; s. 5 LA"]},
+   {"title": "(5) Other remedies", "bullets": ["Appeal s. 96(2); review; s. 12(2)"]},
+   {"title": "(6) Distinction (table)", "bullets": ["Order vs decree: stage, test, remedy"]}
+  ],
+  "right": [
+   {"title": "(7) Dismissal, defendant absent", "bullets": ["rr. 2, 3: fresh suit or restore (r. 4)", "r. 5: three months; fresh suit"]},
+   {"title": "(8) Dismissal, defendant present", "bullets": ["r. 8: dismissal unless admission", "r. 9: no fresh suit; Art. 163"]},
+   {"title": "(9) O. XVII r. 3 distinguished", "bullets": ["Decision on merits = decree; appeal"]},
+   {"title": "(10) Illustration", "bullets": ["Affixation without identifiers", "Decree set aside"]},
+   {"title": "(11) Conclusion", "bullets": ["Decide on merits after hearing both"]}
+  ]},
+ {"id": "a9_map", "type": "answermap", "question": "FRAME the appropriate ISSUES", "sub": "Recovery suit · Ahmed v. Zahid (Babar the employer)",
+  "intro": "Analyse the pleadings, put each disputed material proposition as a separate 'Whether …?' issue with the correct onus, and end with 'Relief'.",
+  "left": [
+   {"title": "(1) The law", "bullets": ["O. XIV r. 1: affirmed and denied", "Material propositions; distinct issues"]},
+   {"title": "(2) Analysis of pleadings", "bullets": ["Plaintiff: supply, receipt, non-payment", "Defendant: agency + six objections"]},
+   {"title": "(3) Issues framed", "bullets": ["Eight issues with OPP / OPD", "Ends with 'Relief'"]}
+  ],
+  "right": [
+   {"title": "(4) Note on the issues", "bullets": ["Onus (Art. 117 QSO); s. 230 Contract Act", "Limitation Arts. 52–53; no 'costs' issue"]},
+   {"title": "(5) Further directions", "bullets": ["Witness list + certificate in 7 days"]},
+   {"title": "(6) Conclusion", "bullets": ["Real controversy: employee or employer?"]}
+  ]},
+ {"id": "a10_map", "type": "answermap", "kicker": "THE ORDER DECIDES", "question": "Should the PLAINT be REJECTED under O. VII r. 11?", "sub": "Ouster clause · cancellation without hearing",
+  "intro": "On the plaint alone, a cancellation without notice is outside the ouster clause and a cause of action is disclosed — so the application is dismissed and the jurisdiction point is left for an issue.",
+  "left": [
+   {"title": "1. The application", "bullets": ["Who applied, under which rule"]},
+   {"title": "2. The plaint in brief", "bullets": ["Allotment, payment, cancellation, re-allotment"]},
+   {"title": "3–4. Grounds and reply", "bullets": ["s. 40 bar; no cause of action", "Void order; complete cause"]},
+   {"title": "5–6. The law on O. VII r. 11", "bullets": ["Plaint only; averments true", "Saleem Bhai; Arivandandam"]}
+  ],
+  "right": [
+   {"title": "7. Ground (i) — ouster clause", "bullets": ["s. 9; Mask & Co.; strict construction", "No hearing = outside the Act (Abbasia)"]},
+   {"title": "8. Ground (ii) — cause of action", "bullets": ["Facts pleaded; ss. 42, 54 SRA"]},
+   {"title": "9. Conclusion", "bullets": ["Application dismissed", "Jurisdiction issue kept open"]},
+   {"title": "10. Directions", "bullets": ["Written statement in 30 days", "Next date for issues"]}
+  ]}
+]
