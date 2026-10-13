@@ -1,0 +1,83 @@
+[
+  {"id": "contract_ladder", "type": "flow", "title": "From proposal to contract — the ladder of section 2", "width": 760, "steps": [
+    {"title": "Proposal (offer)", "text": "Willingness to do or abstain, made to obtain the other's assent — specific or general", "law": "s. 2(a); ss. 3–6", "color": "navy"},
+    {"title": "Acceptance", "text": "Absolute, unqualified, communicated, in the prescribed or a reasonable manner", "law": "s. 2(b); ss. 4, 7, 8", "color": "blue"},
+    {"title": "Promise", "text": "A proposal, when accepted, becomes a promise; promisor and promisee", "law": "s. 2(b), (c)", "color": "teal"},
+    {"title": "Consideration", "text": "At the desire of the promisor, by the promisee or any other person — past, present or future", "law": "s. 2(d); s. 25", "color": "green"},
+    {"title": "Agreement", "text": "Every promise and every set of promises forming consideration for each other", "law": "s. 2(e), (f)", "color": "olive"},
+    {"title": "Enforceable by law = CONTRACT", "text": "Free consent · competent parties · lawful consideration and object · not expressly void · any required form", "law": "s. 2(h); s. 10", "color": "purple"}
+  ]},
+  {"id": "s25_exceptions", "type": "tree", "root": "Section 25 — an agreement without consideration is VOID, unless…", "rootSub": "In any of these cases the agreement is a contract", "cols": 3, "children": [
+    {"title": "(1) Natural love and affection", "color": "teal", "bullets": ["Expressed in writing", "Registered", "Made on account of natural love and affection", "Parties in near relation", "Illus. (b): father to son, Rs. 1,000"]},
+    {"title": "(2) Past voluntary service", "color": "orange", "bullets": ["Promisee already did something voluntarily", "For the promisor, or what he was legally compellable to do", "Promise to compensate wholly or in part", "Illus. (c) purse found; (d) child supported"]},
+    {"title": "(3) Time-barred debt", "color": "navy", "bullets": ["Debt enforceable but for limitation", "Promise to pay wholly or in part", "In writing, signed by debtor or agent", "Illus. (e): Rs. 500 of a barred Rs. 1,000"]},
+    {"title": "Explanation 1 — completed gift", "color": "green", "text": "A gift actually made is valid between donor and donee without consideration"},
+    {"title": "Explanation 2 — inadequacy", "color": "slate", "text": "Inadequate consideration does not void the agreement; it is evidence on whether consent was free (illus. (f), (g))"},
+    {"title": "Elsewhere in the Act", "color": "purple", "text": "Agency needs no consideration (s. 185); gratuitous bailment; surety (s. 127); remission (s. 63)"}
+  ]},
+  {"id": "minor_rules", "type": "cards", "cols": 3, "title": "The minor's position under the Contract Act — at a glance", "cards": [
+    {"title": "Void ab initio", "color": "red", "text": "No contract at all; cannot be enforced against the minor (Mohori Bibee v. Dharmodas Ghose)"},
+    {"title": "No refund under ss. 64–65", "color": "maroon", "text": "Those sections assume competent parties; s. 41 SRA relief is discretionary"},
+    {"title": "No ratification", "color": "orange", "text": "Nothing to ratify on majority; a fresh promise needs fresh consideration"},
+    {"title": "No estoppel", "color": "brown", "text": "A lie about age does not bind him (Sadiq Ali Khan v. Jai Kishori; Art. 114 QSO)"},
+    {"title": "Restitution in equity", "color": "teal", "text": "Benefits obtained by fraud may be ordered restored (Khan Gul v. Lakha Singh, Lahore FB)"},
+    {"title": "No specific performance", "color": "slate", "text": "Not against him, nor by him — no mutuality (Mir Sarwarjan)"},
+    {"title": "Can be a beneficiary", "color": "green", "text": "Promisee, payee, mortgagee; can enforce where he has performed"},
+    {"title": "Agent / partner", "color": "blue", "text": "May be an agent (s. 184); admitted to benefits of partnership (s. 30 PA)"},
+    {"title": "Necessaries (s. 68)", "color": "navy", "text": "Supplier reimbursed from the minor's property — no personal liability"}
+  ]},
+  {"id": "consent_map", "type": "tree", "root": "Consent is FREE when not caused by…", "rootSub": "s. 14 — 'caused' means the consent would not have been given but for the defect", "cols": 3, "children": [
+    {"title": "Coercion — s. 15", "color": "red", "bullets": ["PPC act, or unlawful detention of property", "By or against any person", "Voidable (s. 19); refund (s. 72)"]},
+    {"title": "Undue influence — s. 16", "color": "purple", "bullets": ["Position to dominate + unfair advantage", "Burden shifts if unconscionable", "Voidable; set aside on terms (s. 19A)"]},
+    {"title": "Fraud — s. 17", "color": "maroon", "bullets": ["Knowingly false; active concealment; promise without intent", "Silence only if duty to speak", "Voidable or affirm; damages in deceit"]},
+    {"title": "Misrepresentation — s. 18", "color": "orange", "bullets": ["Honest but unwarranted assertion", "Breach of duty; causing mistake of substance", "Voidable or affirm (s. 19 Exception)"]},
+    {"title": "Mistake — ss. 20–22", "color": "navy", "bullets": ["Both parties, essential fact → void", "Pakistani law → no relief", "One party only → not voidable"]},
+    {"title": "No consent at all — s. 13", "color": "slate", "bullets": ["Not the same thing in the same sense", "Raffles v. Wichelhaus", "Void — no agreement"]}
+  ]},
+  {"id": "s23_heads", "type": "cards", "cols": 3, "title": "Section 23 — consideration or object is unlawful if it…", "cards": [
+    {"title": "1. Is forbidden by law", "color": "red", "text": "Statute prohibits it expressly or by implication — illus. (f): buying a public-service job"},
+    {"title": "2. Would defeat any law", "color": "orange", "text": "Lawful on its face but evades a statute — illus. (i): defaulter buying back through B"},
+    {"title": "3. Is fraudulent", "color": "maroon", "text": "Illus. (e): dividing gains of fraud; (g): agent's secret lease deal"},
+    {"title": "4. Injures person or property", "color": "brown", "text": "Wrongful act — defamation, trespass, bonded labour"},
+    {"title": "5. Is immoral", "color": "purple", "text": "Illus. (j): mukhtar selling influence; (k): concubinage"},
+    {"title": "6. Opposes public policy", "color": "navy", "text": "Stifling prosecution (illus. (h)), trading with the enemy, interfering with justice — 'an unruly horse'"}
+  ]},
+  {"id": "void_agreements", "type": "cards", "cols": 2, "title": "Agreements the Act expressly declares void", "cards": [
+    {"title": "s. 26 — Restraint of marriage", "color": "purple", "text": "Of any person other than a minor"},
+    {"title": "s. 27 — Restraint of trade", "color": "orange", "text": "Any restraint, total or partial; only the goodwill-sale exception within reasonable local limits"},
+    {"title": "s. 28 — Restraint of legal proceedings", "color": "navy", "text": "Absolute bar or shortened limitation; arbitration agreements saved"},
+    {"title": "s. 29 — Uncertainty", "color": "slate", "text": "Meaning not certain or capable of being made certain"},
+    {"title": "s. 30 — Wagers", "color": "red", "text": "No suit for winnings or stakes; horse-race prize of Rs. 500+ saved; s. 294A PPC preserved"},
+    {"title": "ss. 30A–30C — Collateral to wagers (Pakistan, 1960)", "color": "maroon", "text": "Collateral agreements void; no suit for commission; no credit to guardians / executors"},
+    {"title": "Also void", "color": "teal", "text": "No consideration (s. 25); partly unlawful (s. 24); bilateral mistake (s. 20); impossible act (s. 56); impossible event (s. 36)"},
+    {"title": "Incapacity", "color": "green", "text": "Minors and persons of unsound mind (ss. 11–12; Mohori Bibee)"}
+  ]},
+  {"id": "discharge_modes", "type": "org", "title": "Modes of discharge of a contract", "nodeMax": 150, "root": {"title": "Discharge of contract", "sub": "how the obligations come to an end", "color": "navy", "children": [
+    {"title": "Performance", "sub": "actual · tender (ss. 37–38)", "color": "green"},
+    {"title": "Agreement", "sub": "s. 62 novation, rescission, alteration · s. 63 remission", "color": "teal"},
+    {"title": "Impossibility", "sub": "s. 56 frustration", "color": "orange"},
+    {"title": "Lapse of time", "sub": "Limitation Act bars remedy", "color": "slate"},
+    {"title": "Operation of law", "sub": "death (personal) · insolvency · merger · alteration", "color": "purple"},
+    {"title": "Breach", "sub": "actual · anticipatory (s. 39)", "color": "red"}
+  ]}},
+  {"id": "quasi_contracts", "type": "cards", "cols": 3, "title": "Quasi-contracts — obligations imposed by law (ss. 68–72)", "cards": [
+    {"title": "s. 68 — Necessaries", "color": "navy", "text": "Supplied to an incapable person or his dependants — reimbursed from his property"},
+    {"title": "s. 69 — Interested payer", "color": "teal", "text": "Pays money another is bound by law to pay, to protect his own interest — reimbursed"},
+    {"title": "s. 70 — Non-gratuitous act", "color": "green", "text": "Lawful act, not intended as gratuitous, benefit enjoyed — compensate (B.K. Mondal)"},
+    {"title": "s. 71 — Finder of goods", "color": "orange", "text": "Same responsibility as a bailee; rights under ss. 168–169"},
+    {"title": "s. 72 — Mistake or coercion", "color": "red", "text": "Money paid or thing delivered must be returned; mistake includes law (Kanhaiya Lal Saraf)"},
+    {"title": "s. 73, para 3 — Compensation", "color": "purple", "text": "Failure to discharge such an obligation is compensated as if a contract had been broken"}
+  ]},
+  {"id": "terms_map", "type": "tree", "root": "How important is the term that was broken?", "rootSub": "the class of term decides the remedy", "cols": 3, "children": [
+    {"title": "Condition", "color": "red", "bullets": ["Essential to the main purpose", "Terminate + damages", "SGA s. 12(2); Poussard v. Spiers", "s. 55 — time of the essence"]},
+    {"title": "Innominate term", "color": "orange", "bullets": ["Classified after breach", "Terminate only if deprived of substantially the whole benefit", "Hongkong Fir (seaworthiness)"]},
+    {"title": "Warranty", "color": "teal", "bullets": ["Collateral to the main purpose", "Damages only", "SGA s. 12(3); Bettini v. Gye", "Label not conclusive — s. 12(4); Schuler"]}
+  ]},
+  {"id": "problem_method", "type": "flow", "title": "The five-step method for a contract problem", "width": 760, "steps": [
+    {"title": "Formation", "text": "Offer, acceptance, communication, revocation, consideration, intention", "law": "ss. 2–9, 25", "color": "navy"},
+    {"title": "Validity", "text": "Capacity, free consent, lawful object, expressly void, form", "law": "ss. 10–30C, 56", "color": "purple"},
+    {"title": "Performance and discharge", "text": "Performed or tendered? Excused? Time of the essence?", "law": "ss. 37–67", "color": "teal"},
+    {"title": "Breach", "text": "Actual or anticipatory; repudiation accepted or not", "law": "s. 39", "color": "orange"},
+    {"title": "Remedy", "text": "Damages, penalty, rescission, restitution, specific performance, injunction", "law": "ss. 64–75; SRA", "color": "green"}
+  ]}
+]

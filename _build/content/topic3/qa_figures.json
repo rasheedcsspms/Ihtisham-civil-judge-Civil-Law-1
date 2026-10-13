@@ -1,0 +1,170 @@
+[
+ {"id": "c1_map", "type": "answermap", "question": "Are ALL AGREEMENTS CONTRACTS? Who is competent? Must contracts be WRITTEN?", "sub": "ss. 2, 9, 10, 11, 12 · Contract Act 1872",
+  "intro": "Correct the statement first: an agreement is a contract only if it satisfies s. 10 — every contract is an agreement, but not every agreement a contract.",
+  "left": [
+   {"title": "(1) Introduction", "bullets": ["Statement only half true", "s. 10 — 'if' conditions"]},
+   {"title": "(2) The s. 2 ladder", "bullets": ["Proposal → promise → agreement", "Enforceable agreement = contract"]},
+   {"title": "(3)–(4) Agreement + intention", "bullets": ["Absolute acceptance (Hyde v. Wrench)", "Legal relations (Balfour v. Balfour)"]},
+   {"title": "(5) Free consent", "bullets": ["ss. 13–22; voidable / void"]},
+   {"title": "(6) Competent parties", "bullets": ["Majority 18 / 21; sound mind (s. 12)", "Minor void (Mohori Bibee); disqualified"]},
+   {"title": "(7) Lawful consideration", "bullets": ["Durga Prasad; Chinnaya; s. 25"]}
+  ],
+  "right": [
+   {"title": "(8) Lawful object", "bullets": ["s. 23 six heads"]},
+   {"title": "(9)–(10) Not declared void", "bullets": ["ss. 24–30A, 36, 56", "Certainty (s. 29); possibility"]},
+   {"title": "(11) Writing?", "bullets": ["Generally no — s. 9 express / implied", "Unless law requires: s. 25, TPA, Registration Act, Art. 17 QSO"]},
+   {"title": "(12) Illustration", "bullets": ["Oral cement sale valid", "Sale of plot needs registered deed"]},
+   {"title": "(13) Conclusion", "bullets": ["Every contract an agreement — not vice versa"]}
+  ]},
+ {"id": "c2_map", "type": "answermap", "question": "OFFER, ACCEPTANCE, INVITATION TO TREAT, REVOCATION — are BIDS offers?", "sub": "ss. 2(a)–(b), 4–8 · Contract Act 1872",
+  "intro": "Define each term with a case, fix the timing under ss. 4–6, then answer clearly: an advertisement inviting bids is an invitation; each bid is an offer.",
+  "left": [
+   {"title": "(1) Introduction", "bullets": ["Offer vs invitation decides when a contract is made"]},
+   {"title": "(2) Offer — s. 2(a)", "bullets": ["Willingness + view to assent", "Knowledge (Lalman Shukla); general offer (Carlill)"]},
+   {"title": "(3) Acceptance — ss. 7, 8", "bullets": ["Absolute (Hyde v. Wrench)", "Communicated (Felthouse); by performance"]},
+   {"title": "(4) Invitation to treat", "bullets": ["Boots; Harvey v. Facey; Spencer v. Harding", "Auctions, catalogues, tenders"]},
+   {"title": "(5) Communication — s. 4", "bullets": ["Posting binds proposer", "Instantaneous: Entores; Bhagwandas Kedia"]}
+  ],
+  "right": [
+   {"title": "(6) Revocation — s. 5", "bullets": ["Proposal until acceptance posted", "Acceptance until it reaches proposer"]},
+   {"title": "(7) Modes — s. 6", "bullets": ["Notice; lapse; condition; death / insanity"]},
+   {"title": "(8) Bids by advertisement", "bullets": ["Invitation; bid = offer; letter of acceptance", "Harvela exception; auctions; PPRA Rules 2004"]},
+   {"title": "(9) Illustration", "bullets": ["CDA tender; bid withdrawn before acceptance"]},
+   {"title": "(10) Conclusion", "bullets": ["Bids are offers; advertisement is an invitation"]}
+  ]},
+ {"id": "c3_map", "type": "answermap", "question": "FAROOQ v. JAVAID — was a contract made by e-mail, and who can sue?", "sub": "ss. 2, 4–7, 39, 73, 75 · LHC 2017",
+  "intro": "Label each message; fix when the e-mail acceptance took effect; then decide whether Farooq accepted Javaid's anticipatory breach.",
+  "left": [
+   {"title": "(1)–(2) Issues and law", "bullets": ["ss. 2(a), 4–7, 39; ETO 2002"]},
+   {"title": "(3) First e-mail", "bullets": ["Offer of Rs. 1.5 m (s. 2(a))"]},
+   {"title": "(4) Javaid's reply", "bullets": ["Counter-offer (Hyde v. Wrench)", "or inquiry (Stevenson v. McLean)?"]},
+   {"title": "(5) 'Yes. Consider it sold'", "bullets": ["Absolute acceptance at Rs. 1.8 m", "Not silence (Felthouse distinguished)"]},
+   {"title": "(6) When formed?", "bullets": ["On receipt (Entores); SGA s. 20"]}
+  ],
+  "right": [
+   {"title": "(7) No revocation", "bullets": ["Too late (s. 5); not communicated (s. 6)"]},
+   {"title": "(8) Sale to another", "bullets": ["Disablement — s. 39", "Anticipatory breach (Hochster)"]},
+   {"title": "(9) Accepted or affirmed?", "bullets": ["Farooq treated contract as ended", "Contrast Avery v. Bowden"]},
+   {"title": "(10) Remedies", "bullets": ["Javaid cannot compel", "Farooq: s. 73, 75; mitigation"]},
+   {"title": "(11) Conclusion", "bullets": ["Contract made, breached, ended"]}
+  ]},
+ {"id": "c4_map", "type": "answermap", "question": "Agreements without consideration are VOID — what are the EXCEPTIONS in s. 25?", "sub": "s. 25 with illustrations (a)–(g)",
+  "intro": "State the rule, then the three exceptions with their conditions, the two Explanations, and place every illustration under its rule.",
+  "left": [
+   {"title": "(1) The rule", "bullets": ["Ex nudo pacto non oritur actio", "Illus. (a): bare promise void"]},
+   {"title": "(2) Meaning of consideration", "bullets": ["s. 2(d); Durga Prasad; Chinnaya"]},
+   {"title": "(3) Natural love and affection", "bullets": ["Written + registered + near relation", "Illus. (b); Rajlukhy Dabee"]},
+   {"title": "(4) Past voluntary service", "bullets": ["Promise to compensate", "Illus. (c) purse; (d) infant son"]}
+  ],
+  "right": [
+   {"title": "(5) Time-barred debt", "bullets": ["Written, signed promise to pay", "Illus. (e); vs s. 19 Limitation Act"]},
+   {"title": "(6) Explanation 1", "bullets": ["Completed gift valid"]},
+   {"title": "(7) Explanation 2", "bullets": ["Inadequacy — evidence of free consent", "Illus. (f), (g)"]},
+   {"title": "(8) Elsewhere in the Act", "bullets": ["ss. 63, 127, 185; bailment", "Kedarnath vs Abdul Aziz"]},
+   {"title": "(9) Conclusion", "bullets": ["Rule + three exceptions + two Explanations"]}
+  ]},
+ {"id": "c5_map", "type": "answermap", "question": "Agreements by MINORS and persons of UNSOUND MIND — law and effects", "sub": "ss. 10–12, 64–65, 68 · Majority Act s. 3 · SRA s. 41",
+  "intro": "Competence is an essential; a minor's agreement is void ab initio; unsoundness is tested at the time of contracting; necessaries come from property.",
+  "left": [
+   {"title": "(1) Capacity — s. 11", "bullets": ["Majority + sound mind + not disqualified"]},
+   {"title": "(2) Who is a minor", "bullets": ["18; 21 with court guardian"]},
+   {"title": "(3) Void ab initio", "bullets": ["Mohori Bibee — four points"]},
+   {"title": "(4) Effects", "bullets": ["No ratification; no estoppel (Sadiq Ali Khan)", "Restitution (Khan Gul) vs Ajudhia Prasad", "No specific performance; beneficiary; agent; guardian"]},
+   {"title": "(5) Necessaries — s. 68", "bullets": ["From property only (Nash v. Inman)"]}
+  ],
+  "right": [
+   {"title": "(6) Unsound mind — s. 12", "bullets": ["Understanding + rational judgment", "Lucid intervals; drunkenness; burden"]},
+   {"title": "(7) Effects", "bullets": ["Void; s. 68; manager (MHO 2001)", "Weakness → undue influence s. 16(2)(b)"]},
+   {"title": "(8) Comparison table", "bullets": ["Minor vs unsound mind"]},
+   {"title": "(9) Illustration", "bullets": ["17-year-old's motorcycle purchase"]},
+   {"title": "(10) Conclusion", "bullets": ["Protection at the other party's risk"]}
+  ]},
+ {"id": "c6_map", "type": "answermap", "question": "When is CONSENT NOT FREE? Illustrations", "sub": "ss. 13–22 · Contract Act 1872",
+  "intro": "Five vitiating factors, each with definition, illustration, case and effect — tied together by the 'but for' causation test of s. 14.",
+  "left": [
+   {"title": "(1) Consent and free consent", "bullets": ["Same thing in same sense (s. 13)", "Five factors (s. 14)"]},
+   {"title": "(2) Causation", "bullets": ["'But for' test; s. 19 Explanation"]},
+   {"title": "(3) Coercion — s. 15", "bullets": ["PPC act / detention of property", "Ranganayakamma; Chikham Amiraju"]},
+   {"title": "(4) Undue influence — s. 16", "bullets": ["Domination + unfair advantage", "Raghunath Prasad; s. 19A"]}
+  ],
+  "right": [
+   {"title": "(5) Fraud — s. 17", "bullets": ["Derry v. Peek; silence illustrations (a)–(d)"]},
+   {"title": "(6) Misrepresentation — s. 18", "bullets": ["Indigo illustrations; s. 19 Exception"]},
+   {"title": "(7) Mistake — ss. 20–22", "bullets": ["Bilateral fact void; law; unilateral"]},
+   {"title": "(8) Summary table", "bullets": ["Test and effect of each factor"]},
+   {"title": "(9) Conclusion", "bullets": ["Voidable (four) / void (mistake)"]}
+  ]},
+ {"id": "c7_map", "type": "answermap", "question": "Is SAKINA liable under the GUARANTEE for her son's loan?", "sub": "ss. 12, 16–19A, 126 · Art. 127 QSO · LHC 2017",
+  "intro": "Use every fact: age, brain injury, dependence, the son's words and the bank officer's presence — and build alternative lines of defence.",
+  "left": [
+   {"title": "(1) Issues", "bullets": ["Capacity, undue influence, misrepresentation", "Non est factum; bank's position"]},
+   {"title": "(2) Guarantee — s. 126", "bullets": ["Valid on its face; loan = consideration (s. 127)"]},
+   {"title": "(3) Capacity — s. 12", "bullets": ["Brain haemorrhage; comprehension → void?"]},
+   {"title": "(4) Undue influence — s. 16", "bullets": ["s. 16(2)(b) age / illness; son", "Unconscionable → burden shifts; Bundy"]}
+  ],
+  "right": [
+   {"title": "(5) Misrepresentation / fraud", "bullets": ["'It won't come to that' — ss. 17–18", "Bank officer's silence"]},
+   {"title": "(6) Non est factum", "bullets": ["Foster v. Mackinnon; Saunders"]},
+   {"title": "(7) Is the bank affected?", "bullets": ["Presence / connivance (s. 17)", "Etridge; O'Brien; Farid-un-Nisa; Janat Bibi"]},
+   {"title": "(8) Remedies", "bullets": ["Defence; cancellation s. 39 SRA"]},
+   {"title": "(9) Opinion", "bullets": ["Not liable — void or voidable"]}
+  ]},
+ {"id": "c8_map", "type": "answermap", "question": "CONSIDERATION vs OBJECT — and when are they LAWFUL?", "sub": "ss. 2(d), 23, 24, 57, 58",
+  "intro": "Consideration is the price of a promise; object is the purpose. Both are lawful unless one of the six heads of s. 23 applies.",
+  "left": [
+   {"title": "(1) Introduction", "bullets": ["s. 10 requires both lawful"]},
+   {"title": "(2) Consideration", "bullets": ["s. 2(d) — the price"]},
+   {"title": "(3) Object", "bullets": ["Purpose / design"]},
+   {"title": "(4) Difference table", "bullets": ["Illus. (a) to s. 23"]},
+   {"title": "(5) s. 23 — lawful unless…", "bullets": ["Negative formula"]},
+   {"title": "(6)–(8) Heads 1–3", "bullets": ["Forbidden (f); defeats law (i)", "Fraudulent (e), (g)"]}
+  ],
+  "right": [
+   {"title": "(9)–(10) Heads 4–5", "bullets": ["Injury; immoral (j), (k); Pearce v. Brooks"]},
+   {"title": "(11) Head 6 — public policy", "bullets": ["Unruly horse; Gherulal", "Stifling prosecution (h); champerty"]},
+   {"title": "(12) Partial illegality", "bullets": ["s. 24; severability ss. 57–58"]},
+   {"title": "(13) Consequences", "bullets": ["Void; ex turpi causa; in pari delicto"]},
+   {"title": "(14)–(15) Illustration and conclusion", "bullets": ["Lawful loan, unlawful object"]}
+  ]},
+ {"id": "c9_map", "type": "cards", "cols": 3, "title": "Answer map — five short notes, one pattern: definition · principle · authority · example", "cards": [
+   {"title": "(1) Agreement vs contract", "color": "navy", "bullets": ["ss. 2(e), 2(h)", "Difference table", "Balfour v. Balfour"]},
+   {"title": "(2) Void vs voidable", "color": "red", "bullets": ["ss. 2(g), 2(i), 2(j)", "Third parties; ss. 64–65", "Mohori Bibee; Phillips v. Brooks"]},
+   {"title": "(3) Promise and reciprocal promises", "color": "teal", "bullets": ["ss. 2(b), 2(f)", "ss. 51–54, 57", "Hamood Mehmood (2017 SCMR 2022)"]},
+   {"title": "(4) Express / implied authority", "color": "purple", "bullets": ["ss. 186–188", "Quetta shop illustration", "Ostensible authority s. 237"]},
+   {"title": "(5) Mistake of fact", "color": "orange", "bullets": ["ss. 20–22, 72", "Couturier; Bell v. Lever", "Cundy v. Lindsay"]},
+   {"title": "Time plan", "color": "slate", "text": "About 6–7 minutes per note; equal weight; use two tables to save words"}
+  ]},
+ {"id": "c10_map", "type": "answermap", "question": "Is the parties' INTENTION the main factor in the importance of TERMS?", "sub": "SGA ss. 12–13 · Contract Act ss. 39, 55 · KPHC 2026",
+  "intro": "Take a position — partly true — and show where courts rely on intention and where they look to consequences, certainty and statute.",
+  "left": [
+   {"title": "(1) Why it matters", "bullets": ["Terminate or only damages?"]},
+   {"title": "(2) Classes of terms", "bullets": ["Condition s. 12(2); warranty s. 12(3)", "Innominate"]},
+   {"title": "(3) Intention approach", "bullets": ["SGA s. 12(4); s. 55", "Poussard; Bettini"]},
+   {"title": "(4) Labels not conclusive", "bullets": ["Schuler v. Wickman; Chand Rani"]},
+   {"title": "(5) Consequences approach", "bullets": ["Hongkong Fir — substantially whole benefit"]}
+  ],
+  "right": [
+   {"title": "(6) Commercial certainty", "bullets": ["Mihalis Angelos; Bunge v. Tradax"]},
+   {"title": "(7) Statute and precedent", "bullets": ["SGA ss. 13–17"]},
+   {"title": "(8) Contract Act in Pakistan", "bullets": ["ss. 39, 55, 73"]},
+   {"title": "(9) Evaluation table", "bullets": ["Five factors weighed"]},
+   {"title": "(10) Conclusion", "bullets": ["Intention is the start, not the whole"]}
+  ]},
+ {"id": "c11_map", "type": "answermap", "question": "DANISH v. KHURRAM — how much for an eight-week delay?", "sub": "ss. 55, 73, 74 · Hadley v. Baxendale · Fateh Chand",
+  "intro": "Apply both limbs of s. 73, cut the claim down for failure to mitigate, and treat the weekly sum as a ceiling under s. 74 — no double recovery.",
+  "left": [
+   {"title": "(1) Issues", "bullets": ["Breach; s. 73 heads; mitigation; s. 74"]},
+   {"title": "(2) Breach", "bullets": ["8 weeks late; s. 55 notice trap"]},
+   {"title": "(3) s. 73 — the law", "bullets": ["Hadley v. Baxendale two limbs"]},
+   {"title": "(4) Export profit", "bullets": ["Communicated → second limb", "Illus. (j), (l) vs (k); Victoria Laundry"]},
+   {"title": "(5) Local profit", "bullets": ["Natural loss → first limb; illus. (i)"]},
+   {"title": "(6) Mitigation", "bullets": ["Hire at Rs. 200,000 / month", "British Westinghouse"]}
+  ],
+  "right": [
+   {"title": "(7) s. 74 clause", "bullets": ["Ceiling Rs. 4 m; reasonable compensation", "Fateh Chand; Maula Bux"]},
+   {"title": "(8) No double recovery", "bullets": ["One loss, one compensation"]},
+   {"title": "(9) Advance", "bullets": ["Pay balance; set-off"]},
+   {"title": "(10) Likely result", "bullets": ["Near cost of mitigation; ≤ Rs. 4 m"]},
+   {"title": "(11) Conclusion", "bullets": ["Reasonable compensation within the ceiling"]}
+  ]}
+]
