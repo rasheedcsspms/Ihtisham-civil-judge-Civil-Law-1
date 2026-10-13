@@ -1,0 +1,40 @@
+[
+  {"id": "execution_map", "type": "flow", "title": "Execution of a decree — the main roads", "width": 760, "steps": [
+    {"title": "Which court executes?", "text": "Court that passed the decree (incl. first-instance court after appeal) or the court to which it is sent", "law": "ss. 37–42; precept s. 46", "color": "navy"},
+    {"title": "Within time?", "text": "First application within 3 years; fresh applications within 6 years (fraud / force excepted)", "law": "Art. 181; s. 48", "color": "teal"},
+    {"title": "Application and notice", "text": "Tabular application; notice if > 1 year or against legal representative", "law": "O. XXI rr. 10–22", "color": "purple"},
+    {"title": "Objections", "text": "Judgment-debtor: s. 47 after deposit (r. 23-A); third party: claim within 1 year (r. 58)", "law": "s. 47; O. XXI rr. 23-A, 58–62", "color": "orange"},
+    {"title": "Mode chosen by decree-holder", "text": "Delivery, attachment and sale, arrest and detention, receiver, other", "law": "s. 51; O. XXI rr. 30–36", "color": "blue"},
+    {"title": "Attachment and sale", "text": "Exemptions; proclamation; 25% deposit, balance in 15 days; set aside rr. 89–91", "law": "ss. 60, 64; O. XXI rr. 41–94", "color": "brown"},
+    {"title": "Possession", "text": "Actual or symbolic; resistance and dispossession inquiries; police assistance", "law": "O. XXI rr. 95–103; s. 74", "color": "green"},
+    {"title": "Satisfaction and distribution", "text": "Payment certified; rateable distribution among money decree-holders", "law": "O. XXI r. 2; s. 73", "color": "slate"}
+  ]},
+  {"id": "injunction_triad", "type": "tree", "root": "Temporary injunction — O. XXXIX rr. 1–2", "rootSub": "all three must co-exist; relief is equitable and discretionary", "cols": 3, "children": [
+    {"title": "1. Prima facie case", "color": "navy", "text": "A serious, bona fide question to be tried on the plaint, documents and affidavits — not proof of title (Dalpat Kumar; American Cyanamid)"},
+    {"title": "2. Balance of convenience", "color": "teal", "text": "Greater hardship if refused than if granted; when even, preserve the status quo"},
+    {"title": "3. Irreparable loss", "color": "red", "text": "Injury that money cannot adequately repair — sale of unique property, demolition, loss of goodwill"}
+  ]},
+  {"id": "objections_map", "type": "cards", "cols": 2, "title": "Objections in execution — who, under which rule, and the result", "cards": [
+    {"title": "Judgment-debtor objects to execution", "color": "navy", "bullets": ["s. 47: execution, discharge, satisfaction", "Not considered without deposit / security (O. XXI r. 23-A)", "No separate suit; appeal s. 104(1)(ff)"]},
+    {"title": "Third party claims attached property", "color": "teal", "bullets": ["O. XXI r. 58: within reasonable time / 1 year of attachment", "Prove title at date of attachment (r. 59)", "Decided fully; no separate suit (r. 62); r. 63 omitted"]},
+    {"title": "Decree-holder / purchaser resisted", "color": "orange", "bullets": ["r. 97 complaint within 30 days (Art. 167)", "By judgment-debtor → possession + 30 days' prison (r. 98; s. 74)", "Bona fide own-account possessor → dismissed (r. 99), title decided (r. 103)"]},
+    {"title": "Stranger dispossessed", "color": "purple", "bullets": ["r. 100 complaint within 30 days (Art. 165)", "Restored if in possession on own account (r. 101)", "Pendente lite transferee unprotected (r. 102)"]}
+  ]},
+  {"id": "sale_flow", "type": "flow", "title": "Sale of immovable property in execution", "width": 760, "steps": [
+    {"title": "Attachment", "text": "Prohibitory order proclaimed and affixed; later transfers void against attachment", "law": "O. XXI r. 54; s. 64", "color": "navy"},
+    {"title": "Proclamation of sale", "text": "After notice to parties; encumbrances, revenue, amount due stated", "law": "rr. 66–67", "color": "teal"},
+    {"title": "Waiting period", "text": "No sale within 30 days (immovable) / 15 days (movable) without consent", "law": "r. 68", "color": "slate"},
+    {"title": "Auction", "text": "Decree-holder bids only with leave; officers cannot bid; co-sharer preference", "law": "rr. 72–73, 88", "color": "purple"},
+    {"title": "Deposit and balance", "text": "25% immediately; balance before court closes on the 15th day; else forfeiture and re-sale", "law": "rr. 84–86", "color": "orange"},
+    {"title": "Objections to sale", "text": "r. 89 deposit (5% + amount); r. 90 irregularity / fraud + injury (deposit ≤ 20%); r. 91 no saleable interest — 30 days", "law": "rr. 89–91; Art. 166", "color": "red"},
+    {"title": "Confirmation and certificate", "text": "Sale absolute; certificate; title vests from date of sale", "law": "rr. 92, 94; s. 65", "color": "green"},
+    {"title": "Delivery of possession", "text": "Actual (judgment-debtor) or symbolic (tenant)", "law": "rr. 95–96", "color": "brown"}
+  ]},
+  {"id": "remedy_chooser", "type": "decide", "title": "Which remedy against the decision?", "q": [
+    {"ask": "Is it a decree (incl. deemed decree) of a court of original jurisdiction?", "yes": "First appeal as of right (s. 96) — 30 days to DJ / 90 days to HC; not if consent decree (s. 96(3)).", "no": "Go to question 2."},
+    {"ask": "Is it an appellate decree?", "yes": "Second appeal to the High Court on the three grounds of s. 100 only (90 days).", "no": "Go to question 3."},
+    {"ask": "Is the order listed in s. 104 or O. XLIII r. 1?", "yes": "Appeal from order (s. 104) — no second appeal (s. 104(2)).", "no": "Go to question 4."},
+    {"ask": "Is there a jurisdictional error, illegality or material irregularity in a case decided where no appeal lies?", "yes": "Revision (s. 115) — DJ or HC, one only, 90 days; or raise in appeal from decree (s. 105).", "no": "Go to question 5."},
+    {"ask": "Is there an error apparent on the record, new evidence, or a clerical slip?", "yes": "Review (s. 114; O. XLVII — 90 days) or s. 152 correction (any time).", "no": "Fraud, misrepresentation or want of jurisdiction? Apply under s. 12(2) to the court of the final decree."}
+  ]}
+]

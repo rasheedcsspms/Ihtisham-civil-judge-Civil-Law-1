@@ -1,0 +1,167 @@
+[
+ {"id": "b1_map", "type": "answermap", "question": "What are the INGREDIENTS for granting a TEMPORARY INJUNCTION?", "sub": "O. XXXIX rr. 1–2 CPC · s. 56 SRA",
+  "intro": "Three cumulative ingredients — prima facie case, balance of convenience, irreparable loss — applied with equitable discretion and within Pakistan's notice and time limits.",
+  "left": [
+   {"title": "(1) Introduction", "bullets": ["Preserve subject matter and status quo", "s. 53 SRA; s. 94(c); O. XXXIX"]},
+   {"title": "(2) Rule 1 situations", "bullets": ["Property wasted, damaged, alienated, sold", "Disposal to defraud creditors"]},
+   {"title": "(3) Rule 2 situations", "bullets": ["Breach of contract or other injury", "On terms: security, accounts"]},
+   {"title": "(4) Prima facie case", "bullets": ["Serious question to be tried", "Dalpat Kumar; American Cyanamid"]},
+   {"title": "(5) Balance of convenience", "bullets": ["Comparative hardship", "Even → status quo"]},
+   {"title": "(6) Irreparable loss", "bullets": ["Not compensable in money", "Unique property, demolition"]}
+  ],
+  "right": [
+   {"title": "(7) All three must co-exist", "bullets": ["Cumulative; still discretionary"]},
+   {"title": "(8) Equitable considerations", "bullets": ["Clean hands; disclosure; delay (Morgan Stanley)", "Mandatory interim rare (Dorab Cawasji)"]},
+   {"title": "(9) Pakistani procedure", "bullets": ["Notice (r. 3); ex parte ≤ 15 days (r. 2A)", "6-month life (r. 2B); revenue (r. 4A)"]},
+   {"title": "(10) s. 56 SRA bars", "bullets": ["Pending proceedings, criminal, legislature", "Public duties, unenforceable contracts …"]},
+   {"title": "(11) Illustration", "bullets": ["D-12 plot — all three shown"]},
+   {"title": "(12) Conclusion", "bullets": ["Keep the field level until trial"]}
+  ]},
+ {"id": "b2_map", "type": "answermap", "kicker": "THE ORDER DECIDES", "question": "Should AKRAM be protected from EJECTMENT pending the suit?", "sub": "Official residence · transfer policy · children's exams",
+  "intro": "The Government's own policy gives a prima facie right to retain the house; ejectment on the eve of exams is irreparable — injunction granted on conditions, for six months.",
+  "left": [
+   {"title": "1–2. Application and facts", "bullets": ["Allotment; transfer; notice to vacate", "Policy: retain 3 years; exams in 2 weeks"]},
+   {"title": "3. Forum and s. 80", "bullets": ["Unlimited-value Civil Judge (s. 24 Ord.)", "No s. 80 bar in Pakistan"]},
+   {"title": "4. Notice — O. XXXIX r. 3", "bullets": ["Ejectment exception", "Short notice; Government heard"]},
+   {"title": "5–6. Reply and law", "bullets": ["Discretion; s. 56(d) SRA", "Three ingredients"]}
+  ],
+  "right": [
+   {"title": "7. Prima facie case", "bullets": ["Policy not denied or withdrawn"]},
+   {"title": "8. s. 56(d) not attracted", "bullets": ["Following own policy ≠ interfering with duty"]},
+   {"title": "9–10. Convenience and loss", "bullets": ["Family ejected before exams", "Not compensable in money"]},
+   {"title": "11–12. Operative part", "bullets": ["Restrained; rent paid; undertaking", "Six months (r. 2B); tentative"]}
+  ]},
+ {"id": "b3_map", "type": "answermap", "question": "SCOPE of REVIEW, REVISION, APPEAL and SECOND APPEAL — and their DIFFERENCES", "sub": "ss. 96, 100, 114, 115 CPC (Islamabad text)",
+  "intro": "Appeal reheard on facts and law; second appeal on law; review by the same court for patent error or new evidence; revision for jurisdictional errors where no appeal lies.",
+  "left": [
+   {"title": "(1) Introduction", "bullets": ["Four remedies; right of appeal vested (Garikapati)"]},
+   {"title": "(2) First appeal", "bullets": ["s. 96; consent decree barred (s. 96(3))", "Full rehearing (Santosh Hazari); 30 / 90 days"]},
+   {"title": "(3) Second appeal", "bullets": ["s. 100: three legal grounds", "No facts (s. 101); 90 days"]},
+   {"title": "(4) Review", "bullets": ["New evidence; error apparent; analogous", "Not appeal in disguise (Parsion Devi)"]},
+   {"title": "(5) Revision", "bullets": ["No appeal lies; jurisdictional error", "90 days; 6 months; one revision only"]}
+  ],
+  "right": [
+   {"title": "(6) Differences — table", "bullets": ["Forum, grounds, facts, limitation, repetition"]},
+   {"title": "(7) Choosing the remedy", "bullets": ["Decision chart"]},
+   {"title": "(8) Combining remedies", "bullets": ["Review only if no appeal preferred", "Revision only if no appeal lies"]},
+   {"title": "(9) Conclusion", "bullets": ["Right remedy within time"]}
+  ]},
+ {"id": "b4_map", "type": "answermap", "question": "REVIEW (s. 114) versus AMENDMENT of judgments (s. 152)", "sub": "O. XX r. 3 · O. XLVII",
+  "intro": "Section 152 corrects slips so the record says what the court meant — at any time; review reopens the decision itself for patent error or new evidence — within 90 days.",
+  "left": [
+   {"title": "(1) Finality and its two exceptions", "bullets": ["O. XX r. 3: only s. 152 or review"]},
+   {"title": "(2) s. 152 — text", "bullets": ["Clerical, arithmetical, accidental slip"]},
+   {"title": "(3) Scope of s. 152", "bullets": ["Reflect court's intention", "Any time; suo motu"]},
+   {"title": "(4) s. 114 — text", "bullets": ["No appeal preferred / none allowed"]},
+   {"title": "(5) Grounds of review", "bullets": ["New evidence; error apparent; analogous", "Moran Mar Basselios"]}
+  ],
+  "right": [
+   {"title": "(6) Limits of review", "bullets": ["Not appeal in disguise", "Thungabhadra; Parsion Devi"]},
+   {"title": "(7) Procedure of review", "bullets": ["Same judge; notice; no review of review", "90 days (Art. 173)"]},
+   {"title": "(8) Comparison table", "bullets": ["Ten points of difference"]},
+   {"title": "(9) Illustrations", "bullets": ["Typo, wrong total, overlooked exhibit, new receipt"]},
+   {"title": "(10) Related powers", "bullets": ["s. 153; s. 151 (reasons)"]},
+   {"title": "(11) Conclusion", "bullets": ["Housekeeping vs narrow correction"]}
+  ]},
+ {"id": "b5_map", "type": "answermap", "question": "What is an INTERPLEADER SUIT? HOW and WHERE instituted? Its RULES", "sub": "s. 88 · Order XXXV CPC",
+  "intro": "A disinterested stakeholder facing rival claims to the same property sues all claimants, deposits the thing, is discharged, and leaves them to interplead.",
+  "left": [
+   {"title": "(1) The stakeholder's dilemma", "bullets": ["Risk of paying twice"]},
+   {"title": "(2) Meaning — s. 88", "bullets": ["Adverse claims to same property"]},
+   {"title": "(3) Six conditions", "bullets": ["No interest but costs; ready to pay", "No pending suit"]},
+   {"title": "(4) The proviso", "bullets": ["Pending suit deciding all rights bars it"]},
+   {"title": "(5) Where — ordinary rules", "bullets": ["ss. 15, 16, 20; pecuniary limits"]},
+   {"title": "(6) Plaint — r. 1", "bullets": ["No interest; claims; no collusion"]}
+  ],
+  "right": [
+   {"title": "(7) Payment into court — r. 2", "bullets": ["Deposit before any order"]},
+   {"title": "(8) Stay of other suits — r. 3", "bullets": ["Claimant's suit against plaintiff stayed"]},
+   {"title": "(9) First hearing — r. 4", "bullets": ["Discharge plaintiff; costs", "Decide title or frame issues"]},
+   {"title": "(10) Agents and tenants — r. 5", "bullets": ["Cannot interplead principal / landlord", "Art. 115 QSO estoppel"]},
+   {"title": "(11) Costs and appeals", "bullets": ["Charge on property (r. 6)", "O. XLIII r. 1(p)"]},
+   {"title": "(12) Illustration and conclusion", "bullets": ["Bank account with three claimants"]}
+  ]},
+ {"id": "b6_map", "type": "answermap", "question": "Is DENIAL OF CONSIDERATION a triable issue? On WHOM is the ONUS?", "sub": "O. XXXVII CPC · s. 118 NI Act",
+  "intro": "A bare denial fails against the statutory presumption; a specific, plausible case is triable. The defendant must first rebut s. 118 — then the holder must prove consideration.",
+  "left": [
+   {"title": "(1) The summary procedure", "bullets": ["Bills, hundis, promissory notes"]},
+   {"title": "(2) No leave → deemed admission", "bullets": ["Decree executable forthwith"]},
+   {"title": "(3) Leave to defend — r. 3", "bullets": ["Affidavit; 10 days (Art. 159)", "Conditional or unconditional"]},
+   {"title": "(4) Triable issue test", "bullets": ["Mechelec categories"]},
+   {"title": "(5) Denial of consideration", "bullets": ["Bare denial — no", "Specific, plausible — yes"]}
+  ],
+  "right": [
+   {"title": "(6) s. 118(a) presumption", "bullets": ["Consideration presumed until contrary proved"]},
+   {"title": "(7) Onus", "bullets": ["First on defendant (Arts. 117–118 QSO)", "Then shifts to holder; holder in due course"]},
+   {"title": "(8) Regular trial after leave", "bullets": ["r. 7; issue OPD"]},
+   {"title": "(9) Illustration", "bullets": ["Note given as security for undelivered steel"]},
+   {"title": "(10) Setting aside decree — r. 4", "bullets": ["Special circumstances"]},
+   {"title": "(11) Conclusion", "bullets": ["Specific + plausible = triable"]}
+  ]},
+ {"id": "b7_map", "type": "answermap", "question": "GUARDIAN AD LITEM; can the court decide MINORITY; effect of a decree WITHOUT a guardian?", "sub": "Order XXXII CPC",
+  "intro": "The court must satisfy itself of minority and appoint a disinterested guardian; a decree against an unrepresented minor does not bind him, though mere irregularity without prejudice does not vitiate.",
+  "left": [
+   {"title": "(1) The court as protector", "bullets": ["Parens patriae; s. 11 Contract Act"]},
+   {"title": "(2) Meaning", "bullets": ["Guardian for the suit of minor defendant", "≠ next friend; ≠ G&W Act guardian"]},
+   {"title": "(3) Appointment — r. 3", "bullets": ["Affidavit of no adverse interest; notice", "Continues in appeal and execution"]},
+   {"title": "(4) Who may be appointed — r. 4", "bullets": ["Adult, sound mind, consent", "Court officer as last resort"]},
+   {"title": "(5) Duties and safeguards", "bullets": ["No money without leave (r. 6)", "Compromise only with recorded leave (r. 7)"]}
+  ],
+  "right": [
+   {"title": "(6) Court decides minority", "bullets": ["\"on being satisfied of … minority\"", "Documents; preliminary issue"]},
+   {"title": "(7) Decree without guardian", "bullets": ["r. 5(2): may be discharged", "Not binding; s. 12(2); irregularity vs absence"]},
+   {"title": "(8) Illustration", "bullets": ["Shop decree against 15-year-old"]},
+   {"title": "(9) Unsound mind — r. 15", "bullets": ["Same protection"]},
+   {"title": "(10) Conclusion", "bullets": ["Court bound to protect the minor"]}
+  ]},
+ {"id": "b8_map", "type": "answermap", "question": "Is a r. 97 INQUIRY on B's PROSPECTIVE objection warranted?", "sub": "O. XXI rr. 94–103 CPC",
+  "intro": "No actual resistance, and r. 97 is the purchaser's remedy: issue the warrant under r. 95; B's rights are fully protected under rr. 99–101 and decided under r. 103.",
+  "left": [
+   {"title": "(1) The issue", "bullets": ["Anticipatory objection by a stranger"]},
+   {"title": "(2) Purchaser's right — rr. 94–96", "bullets": ["Certificate; actual / symbolic delivery"]},
+   {"title": "(3) When r. 97 applies", "bullets": ["\"is resisted or obstructed\"", "Application by purchaser"]},
+   {"title": "(4) Stranger's remedy — rr. 99–101", "bullets": ["Resists → r. 99", "Dispossessed → r. 100 (30 days)"]},
+   {"title": "(5) r. 103 (Pakistan)", "bullets": ["All title questions in execution; no suit"]}
+  ],
+  "right": [
+   {"title": "(6) Application to facts", "bullets": ["No resistance yet; A declines r. 97", "Not warranted under r. 97"]},
+   {"title": "(7) s. 47 / s. 151", "bullets": ["B a stranger; s. 47 inapplicable", "Inherent power not against scheme"]},
+   {"title": "(8) Policy", "bullets": ["Fruits of decree; no collusive delay"]},
+   {"title": "(9) Conclusion", "bullets": ["Warrant under r. 95; then r. 97 / r. 100"]}
+  ]},
+ {"id": "b9_map", "type": "answermap", "question": "PROCEDURE for executing a MONEY DECREE; which COURT is competent?", "sub": "ss. 37–73 · Order XXI CPC",
+  "intro": "Decree court or transferee court; apply within time; detention only for wilful default after show-cause, or attachment and sale of non-exempt property; claims decided in execution.",
+  "left": [
+   {"title": "(1) Introduction", "bullets": ["O. XXI r. 30: detention / attachment / both"]},
+   {"title": "(2) Competent court", "bullets": ["ss. 37–39, 42; precept s. 46; s. 44A"]},
+   {"title": "(3) Limitation", "bullets": ["Art. 181 — 3 years; s. 48 — 6 years"]},
+   {"title": "(4) Application — rr. 10–11", "bullets": ["Tabular; mode specified"]},
+   {"title": "(5) Notice and objections", "bullets": ["r. 22; s. 47; r. 23-A deposit"]},
+   {"title": "(6) Arrest and detention", "bullets": ["s. 51 proviso; r. 37 notice", "≤ 1 year; no woman (s. 56)"]}
+  ],
+  "right": [
+   {"title": "(7) Attachment", "bullets": ["s. 60 exemptions; rr. 43–54", "s. 64 transfers void against it"]},
+   {"title": "(8) Third-party claims", "bullets": ["r. 58: 1 year; r. 62: no suit"]},
+   {"title": "(9) Sale", "bullets": ["Proclamation; 25% + 15 days", "rr. 89–91 set aside; certificate"]},
+   {"title": "(10) Rateable distribution — s. 73", "bullets": ["Applicants before receipt"]},
+   {"title": "(11) Against Government — s. 82", "bullets": ["Three months after report"]},
+   {"title": "(12) Conclusion", "bullets": ["Speed for creditor, fairness to debtor"]}
+  ]},
+ {"id": "b10_map", "type": "answermap", "question": "Can a suit be filed against GOVERNMENT WITHOUT NOTICE?", "sub": "s. 80 CPC (Pakistan, 1962) · Order XXVII",
+  "intro": "Yes in Pakistan: s. 80(2) itself fixes the consequences — no costs on early settlement and at least three months for the written statement — so want of notice is no bar.",
+  "left": [
+   {"title": "(1) The State as litigant", "bullets": ["Purpose: settle before suit"]},
+   {"title": "(2) s. 80(1) — text", "bullets": ["Two months' written notice"]},
+   {"title": "(3) Contents and service", "bullets": ["Cause, identity, relief", "Secretary / Collector / officer"]},
+   {"title": "(4) Consequences — s. 80(2)", "bullets": ["No costs if settled in 2 months", "≥ 3 months for written statement"]},
+   {"title": "(5) Yes — suit maintainable", "bullets": ["No rejection under O. VII r. 11", "India contrast (Bihari Chowdhary)"]}
+  ],
+  "right": [
+   {"title": "(6) Rationale", "bullets": ["Cost incentive, not jurisdictional bar"]},
+   {"title": "(7) Scope", "bullets": ["Official acts of public officers", "Not private acts or corporations"]},
+   {"title": "(8) Special statutes", "bullets": ["Own notices may be mandatory"]},
+   {"title": "(9) Related rules", "bullets": ["ss. 79, 81–82; O. XXVII, XXVII-A", "s. 24 Ordinance; O. XXXIX r. 3"]},
+   {"title": "(10) Illustration", "bullets": ["Demolition notice; urgent suit"]},
+   {"title": "(11) Conclusion", "bullets": ["Notice desirable, not a condition"]}
+  ]}
+]
