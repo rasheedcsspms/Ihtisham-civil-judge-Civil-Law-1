@@ -1,0 +1,79 @@
+[
+  {"id": "guarantee_triangle", "type": "tree", "root": "Contract of guarantee — three parties, three contracts", "rootSub": "s. 126: to perform the promise, or discharge the liability, of a third person in case of his default", "cols": 3, "children": [
+    {"title": "1. Creditor ↔ Principal debtor", "color": "navy", "bullets": ["The main contract (loan, credit sale, employment)", "Primary liability of the debtor", "Its existence is the basis of the guarantee"]},
+    {"title": "2. Creditor ↔ Surety", "color": "purple", "bullets": ["Surety promises to pay / perform on default", "Secondary but immediate liability (s. 128)", "Consideration: benefit to the debtor (s. 127)"]},
+    {"title": "3. Principal debtor ↔ Surety", "color": "teal", "bullets": ["Implied promise to indemnify (s. 145)", "Surety recovers what he rightfully paid", "Subrogation on payment (s. 140)"]}
+  ]},
+  {"id": "surety_discharge", "type": "cards", "cols": 3, "title": "How a surety is discharged", "cards": [
+    {"title": "Revocation", "color": "slate", "text": "Continuing guarantee — by notice or by the surety's death, as to future transactions (ss. 130–131)"},
+    {"title": "Variance", "color": "red", "text": "Any change in terms without the surety's consent — as to later transactions (s. 133)"},
+    {"title": "Release of debtor", "color": "maroon", "text": "Contract releasing the debtor, or creditor's act / omission discharging him (s. 134)"},
+    {"title": "Composition / time / not to sue", "color": "orange", "text": "Binding promise with the debtor (s. 135) — not with a third person (s. 136), not mere forbearance (s. 137)"},
+    {"title": "Impairing surety's remedy", "color": "brown", "text": "Creditor's act or omission inconsistent with the surety's rights (s. 139)"},
+    {"title": "Loss of securities", "color": "purple", "text": "To the extent of the value of the security lost or parted with (s. 141)"},
+    {"title": "Invalid guarantee", "color": "navy", "text": "Misrepresentation (s. 142), concealment (s. 143), co-surety not joining (s. 144)"},
+    {"title": "Not discharged", "color": "green", "text": "Release of a co-surety (s. 138); debtor's discharge by operation of law"},
+    {"title": "Performance", "color": "teal", "text": "Payment by the debtor or the surety ends the guarantee"}
+  ]},
+  {"id": "agency_creation", "type": "tree", "root": "How an agency is created", "rootSub": "no consideration is needed (s. 185)", "cols": 3, "children": [
+    {"title": "Express", "color": "navy", "text": "Words spoken or written — power of attorney (s. 187)"},
+    {"title": "Implied", "color": "teal", "text": "From circumstances / course of dealing (s. 187 — Quetta shop); incidental (s. 188)"},
+    {"title": "Estoppel", "color": "orange", "text": "Principal's words or conduct induce belief in authority (s. 237)"},
+    {"title": "Necessity", "color": "red", "text": "Emergency; cannot contact principal; prudent act (s. 189; Swaffield)"},
+    {"title": "Ratification", "color": "purple", "text": "Act on behalf of an existing principal adopted with full knowledge (ss. 196–200)"},
+    {"title": "Operation of law", "color": "slate", "text": "E.g., partners as agents of the firm (Partnership Act); legal representatives"}
+  ]},
+  {"id": "sale_vs_ats", "type": "cards", "cols": 2, "title": "Sale and agreement to sell (s. 4)", "cards": [
+    {"title": "SALE — property passes now", "color": "green", "bullets": ["Executed contract; right in rem", "Risk with buyer (s. 26)", "Seller sues for price (s. 55)", "Goods perish — buyer's loss"]},
+    {"title": "AGREEMENT TO SELL — later / on condition", "color": "orange", "bullets": ["Executory contract; right in personam", "Risk with seller", "Seller sues for damages (s. 56)", "Goods perish — agreement avoided (s. 8)"]}
+  ]},
+  {"id": "implied_terms", "type": "tree", "root": "Implied conditions and warranties — Sale of Goods Act", "rootSub": "may be excluded by agreement, dealing or usage (s. 62)", "cols": 3, "children": [
+    {"title": "Title — s. 14", "color": "navy", "bullets": ["Condition: right to sell", "Warranty: quiet possession", "Warranty: no undisclosed charge"]},
+    {"title": "Description — s. 15", "color": "teal", "bullets": ["Goods correspond with description", "Sample + description: both"]},
+    {"title": "Quality / fitness — s. 16", "color": "orange", "bullets": ["Fitness for made-known purpose (16(1))", "Merchantable quality (16(2))", "Usage of trade (16(3))"]},
+    {"title": "Disclosure — s. 16A", "color": "red", "bullets": ["Pakistan, 1994", "Seller must inform buyer of defects", "Unless agreed otherwise / obvious"]},
+    {"title": "Sample — s. 17", "color": "purple", "bullets": ["Bulk corresponds with sample", "Opportunity to compare", "No latent unmerchantable defect"]},
+    {"title": "Caveat emptor", "color": "slate", "bullets": ["General rule in s. 16 opening words", "The above are its exceptions", "Plus fraud / misrepresentation"]}
+  ]},
+  {"id": "property_rules", "type": "decide", "title": "When does property pass? (SGA ss. 18–25)", "q": [
+    {"ask": "Are the goods unascertained or future?", "yes": "No property until ascertained (s. 18); then on unconditional appropriation with assent, or delivery to carrier (s. 23)", "no": "Specific / ascertained — property passes when intended (s. 19); go on"},
+    {"ask": "Unconditional contract, goods in a deliverable state?", "yes": "Property passes when the contract is made (s. 20)", "no": "Go on"},
+    {"ask": "Must the seller do something to make them deliverable?", "yes": "Passes when done and buyer has notice (s. 21)", "no": "Go on"},
+    {"ask": "Must the seller weigh / measure / test to fix the price?", "yes": "Passes when done and buyer has notice (s. 22)", "no": "Go on"},
+    {"ask": "Sent on approval or sale or return?", "yes": "On approval / adopting act, or after fixed / reasonable time (s. 24)", "no": "Check reservation of right of disposal (s. 25)"}
+  ]},
+  {"id": "nemo_dat", "type": "tree", "root": "Nemo dat quod non habet — s. 27", "rootSub": "a buyer from a non-owner gets no better title — except:", "cols": 4, "children": [
+    {"title": "Estoppel", "color": "navy", "text": "Owner's conduct precludes denial of authority (s. 27)"},
+    {"title": "Mercantile agent", "color": "teal", "text": "Possession with owner's consent; ordinary course; good faith (s. 27 proviso)"},
+    {"title": "Joint owner", "color": "green", "text": "Sole possession by co-owners' permission (s. 28)"},
+    {"title": "Voidable title", "color": "orange", "text": "Contract under s. 19 / 19A not yet rescinded (s. 29)"},
+    {"title": "Seller in possession", "color": "purple", "text": "Delivery to a second buyer in good faith (s. 30(1))"},
+    {"title": "Buyer in possession", "color": "red", "text": "Possession with seller's consent; defeats seller's lien (s. 30(2))"},
+    {"title": "Other laws", "color": "slate", "text": "Finder (s. 169), pawnee (s. 176), unpaid seller resale (s. 54(3)), court sales"},
+    {"title": "No market overt", "color": "brown", "text": "Open-market sales give no special title in Pakistan"}
+  ]},
+  {"id": "delivery_kinds", "type": "tree", "root": "Delivery — voluntary transfer of possession (s. 2(2))", "rootSub": "anything agreed, or that puts the goods in the buyer's possession (s. 33)", "cols": 3, "children": [
+    {"title": "Actual", "color": "navy", "text": "Physical handing over of the goods to the buyer or his agent"},
+    {"title": "Symbolic", "color": "teal", "text": "Keys of the godown; bill of lading; railway receipt; car documents and keys"},
+    {"title": "Constructive (attornment)", "color": "purple", "text": "Person in possession acknowledges he holds for the buyer (s. 36(3))"}
+  ]},
+  {"id": "unpaid_seller", "type": "org", "title": "Rights of the unpaid seller (ss. 45–61)", "root": {"title": "Unpaid seller", "sub": "price not wholly paid or tendered; instrument dishonoured (s. 45)", "color": "navy", "children": [
+    {"title": "Against the goods (s. 46)", "sub": "even if property has passed", "color": "teal", "children": [
+      {"title": "Lien", "sub": "ss. 47–49", "color": "green"},
+      {"title": "Stoppage in transit", "sub": "ss. 50–52; buyer insolvent", "color": "orange"},
+      {"title": "Resale", "sub": "s. 54", "color": "purple"}
+    ]},
+    {"title": "Against the buyer", "sub": "personal remedies", "color": "red", "children": [
+      {"title": "Price", "sub": "s. 55", "color": "maroon"},
+      {"title": "Damages", "sub": "ss. 56, 60", "color": "brown"},
+      {"title": "Interest", "sub": "s. 61", "color": "slate"}
+    ]}
+  ]}},
+  {"id": "problem_method", "type": "flow", "title": "The method for a Topic 4 problem", "width": 760, "steps": [
+    {"title": "Identify the contract", "text": "Indemnity, guarantee, bailment, pledge, agency — or sale / agreement to sell", "law": "ss. 124, 126, 148, 172, 182; SGA s. 4", "color": "navy"},
+    {"title": "Validity and form", "text": "Consideration, consent, capacity, form and proof", "law": "ss. 10, 127, 142–144; Art. 17 QSO", "color": "purple"},
+    {"title": "Rights and duties", "text": "Of each party under the special chapter — quote the illustration that fits", "law": "ss. 128–225; SGA ss. 12–44", "color": "teal"},
+    {"title": "Third parties", "text": "Who is bound; nemo dat; mercantile agents; undisclosed principals", "law": "ss. 178, 226–238; SGA ss. 27–30", "color": "orange"},
+    {"title": "Discharge and remedies", "text": "Discharge of surety; termination of agency; lien, stoppage, resale; suits", "law": "ss. 133–141, 201–210; SGA ss. 45–61", "color": "green"}
+  ]}
+]

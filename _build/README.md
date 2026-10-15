@@ -13,3 +13,10 @@ Content is written in a light markup (`content/topicN/kb_*.md`, `qa_*.md`) with 
 - `make.py` builds twice so the contents page carries real page numbers, then renumbers bookmark ids.
 
 Output goes to `../Civil Law-I/<topic folder>/`; PDFs for checking go to `out/` (git-ignored).
+
+Topic folder names used:
+
+- `topic1` — "Topic 1 - CPC Part I and Civil Courts Ordinance"
+- `topic2` — "Topic 2 - CPC Part II (Decree, Interim Relief, Execution and Remedies)"
+- `topic3` — "Topic 3 - Contract Act (General Principles)"
+- `topic4` — "Topic 4 - Specific Contracts and Sale of Goods"

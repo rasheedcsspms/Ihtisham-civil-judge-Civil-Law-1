@@ -9,7 +9,7 @@
 |**Quid pro quo**|Something for something|s. 2(d) consideration|
 |**Ex turpi causa non oritur actio**|No action arises from a base cause|s. 23 illegal agreements (*Holman v. Johnson*)|
 |**In pari delicto potior est conditio defendentis**|Where both are equally at fault, the defendant is better placed|No recovery under illegal agreements; exceptions (*Kiriri Cotton*)|
-|**Caveat emptor**|Let the buyer beware|s. 17 Explanation — mere silence is not fraud; SGA s. 16|
+|**Caveat emptor**|Let the buyer beware|s. 17 Explanation — mere silence is not fraud; SGA s. 16 — but see SGA s. 16A (Pakistani seller's duty to disclose defects)|
 |**Ignorantia juris non excusat**|Ignorance of law is no excuse|s. 21 — mistake of Pakistani law|
 |**Ignorantia facti excusat**|Ignorance of fact excuses|s. 20 — bilateral mistake of fact|
 |**Non est factum**|It is not my deed|Mistake as to the nature of a signed document (*Foster v. Mackinnon*; *Saunders*)|

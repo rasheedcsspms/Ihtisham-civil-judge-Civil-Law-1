@@ -327,6 +327,10 @@ __Lesson.__ Honest but careless statements are **misrepresentation** (s. 18), no
 In general, a party need not volunteer facts; each party must look after his own interests. The Act's Explanation to s. 17 and s. 16 of the Sale of Goods Act reflect this rule — subject to the exceptions above.
 :::
 
+:::ict Sale of goods in Pakistan — the seller must disclose defects
+For **sales of goods**, Pakistan has cut down the silence rule by statute. **Section 16A of the Sale of Goods Act** (inserted by Act XVIII of 1994) provides that, "notwithstanding anything contained in section 16, and save where the parties have entered into an agreement to the contrary, the seller shall be under an **obligation to inform the buyer of any defect** in the goods sold at the time of the contract, except in a case where the defect is obviously known to the buyer." So a Pakistani seller of goods who keeps quiet about a defect breaches a statutory duty, even where the general rule in s. 17 would treat mere silence as no fraud. (Full treatment: Topic 4, Chapter 7.)
+:::
+
 ### Promise without intention to perform
 
 A promise made **without intending to perform it** is fraud (s. 17(3)) — e.g., buying goods on credit with no intention to pay.
@@ -406,7 +410,7 @@ A genuine mistake of fact may excuse — which is why s. 20 treats bilateral mis
 :::case Smith v. Hughes ((1871) LR 6 QB 597)
 __Facts.__ A buyer bought oats after seeing a sample, believing them to be **old** oats; they were **new** oats. The seller said nothing about their age.
 
-__Held.__ The buyer's mistake as to **quality** did not affect the contract, as long as the seller had not represented them as old oats and the contract did not term them "old". Silence about the buyer's mistake as to quality is not fraud (*caveat emptor*).
+__Held.__ The buyer's mistake as to **quality** did not affect the contract, as long as the seller had not represented them as old oats and the contract did not term them "old". Silence about the buyer's mistake as to quality is not fraud (*caveat emptor*). (In a Pakistani sale of goods, compare the seller's statutory duty to disclose **defects** under SGA s. 16A — a mistake about the age of oats is not a defect, but a hidden flaw would be.)
 :::
 
 **Exceptions — when unilateral mistake matters:**

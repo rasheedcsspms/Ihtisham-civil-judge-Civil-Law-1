@@ -1,0 +1,181 @@
+[
+ {"id": "d1_map", "type": "answermap", "question": "R's promise and T's promise — GUARANTEE or INDEMNITY?", "sub": "ss. 124–128, 140, 145 · s. 31 · LHC ASJ 2025",
+  "intro": "Classify each set of facts with the statutory test; R's 'indemnity' plea fails either way; insurance is a species of indemnity resting also on s. 31.",
+  "left": [
+   {"title": "(1)–(2) Introduction and definitions", "bullets": ["s. 124 indemnity; s. 126 guarantee"]},
+   {"title": "(3) R's promise = guarantee", "bullets": ["Three parties; 'if Q defaults'", "Consideration: credit to Q (s. 127 illus. (a))"]},
+   {"title": "(4) Even as indemnity, liable", "bullets": ["Indemnity is primary liability"]},
+   {"title": "(5) T's promise = indemnity", "bullets": ["Fire not 'conduct' — s. 124 narrow", "Valid: s. 31; Insurance Ordinance 2000"]},
+   {"title": "(6) Comparison table", "bullets": ["Parties, liability, purpose, rights"]}
+  ],
+  "right": [
+   {"title": "(7) Independent footing?", "bullets": ["Indemnity — ss. 124–125, 145, 222", "Insurance a species of indemnity"]},
+   {"title": "(8) R's liability", "bullets": ["Co-extensive (s. 128); immediate (Bank of Bihar)", "Discharge defences absent"]},
+   {"title": "(9) T's liability", "bullets": ["Actual loss ≤ sum insured", "Insurable interest; good faith; subrogation"]},
+   {"title": "(10) Remedies", "bullets": ["P sues R / Q and R", "R: ss. 140, 145; S: claim / suit"]},
+   {"title": "(11) Conclusion", "bullets": ["Guarantee and indemnity distinct"]}
+  ]},
+ {"id": "d2_map", "type": "answermap", "question": "Is AZU's guarantee of its SUBSIDIARY's debt a VALID guarantee?", "sub": "ss. 126–128, 142–144 · Companies Act 2017 · LHC 2020",
+  "intro": "Holding and subsidiary are separate persons; test each essential against the facts and explain why it matters.",
+  "left": [
+   {"title": "(1) Introduction", "bullets": ["Promise on default = guarantee (s. 126)"]},
+   {"title": "(2) Three distinct parties", "bullets": ["Bank, AUB, AZU", "Separate personality (Salomon)"]},
+   {"title": "(3) Principal liability", "bullets": ["AUB's debt; default shown"]},
+   {"title": "(4) Consideration", "bullets": ["Credit to AUB (s. 127)", "Not past (illus. (c))"]}
+  ],
+  "right": [
+   {"title": "(5) Free consent", "bullets": ["No misrepresentation / concealment (ss. 142–143)"]},
+   {"title": "(6) Corporate capacity", "bullets": ["Memorandum; special resolution (s. 199)", "Indoor management (Turquand)"]},
+   {"title": "(7)–(8) Form; conditions", "bullets": ["Written; Art. 17 / 79 QSO; stamp", "No co-surety condition (s. 144)"]},
+   {"title": "(9) Opinion", "bullets": ["Valid; AZU in breach"]},
+   {"title": "(10) Conclusion", "bullets": ["Essentials secure a knowing secondary promise"]}
+  ]},
+ {"id": "d3_map", "type": "answermap", "question": "ADVISE THE BANK — how to enforce the guarantee, and how far is AZU liable?", "sub": "ss. 128–141, 171, 176 · FIRFO 2001 · LHC 2020",
+  "intro": "Liability is co-extensive (within Rs. 500,000) and immediate; sue in the Banking Court, preserve securities, avoid acts that discharge the surety.",
+  "left": [
+   {"title": "(1) Heading", "bullets": ["Opinion to the Bank"]},
+   {"title": "(2) Nature of liability", "bullets": ["Co-extensive (s. 128); cap Rs. 500,000", "Immediate (Bank of Bihar)"]},
+   {"title": "(3) Suit against AZU alone", "bullets": ["Banking Court — FIRFO 2001", "Leave to defend (s. 10)"]},
+   {"title": "(4) Joint suit", "bullets": ["AUB and AZU jointly and severally"]},
+   {"title": "(5) Securities, set-off, lien", "bullets": ["s. 176; s. 171; don't lose securities (s. 141)"]}
+  ],
+  "right": [
+   {"title": "(6) Demand and notice", "bullets": ["Condition of many guarantees"]},
+   {"title": "(7) Limitation", "bullets": ["Three years; acknowledgment (s. 19 LA)"]},
+   {"title": "(8) AZU's defences", "bullets": ["ss. 133–135, 139, 141–143", "Corporate authority"]},
+   {"title": "(9) AZU's rights after payment", "bullets": ["ss. 140, 141, 145"]},
+   {"title": "(10)–(11) Advice and conclusion", "bullets": ["Demand → preserve → joint suit"]}
+  ]},
+ {"id": "d4_map", "type": "answermap", "question": "What are the RIGHTS of a SURETY, and when is he DISCHARGED?", "sub": "ss. 130–147 · Contract Act 1872",
+  "intro": "The surety is a favoured debtor: strong rights once he pays, and discharge whenever the creditor alters or damages his position without consent.",
+  "left": [
+   {"title": "(1) Favoured debtor", "bullets": ["Why the law protects the surety"]},
+   {"title": "(2) Against principal debtor", "bullets": ["Subrogation (s. 140)", "Indemnity (s. 145); quia timet"]},
+   {"title": "(3) Against creditor", "bullets": ["Securities (s. 141); set-off"]},
+   {"title": "(4) Against co-sureties", "bullets": ["Equal contribution (s. 146)", "Within limits (s. 147); s. 138"]},
+   {"title": "(5) Revocation", "bullets": ["Notice (s. 130); death (s. 131)"]}
+  ],
+  "right": [
+   {"title": "(6) Creditor's conduct", "bullets": ["Variance (s. 133); release (s. 134)", "Time / composition (s. 135) — not ss. 136–137", "Impairment (s. 139); securities (s. 141)"]},
+   {"title": "(7) Invalidity", "bullets": ["ss. 142, 143, 144"]},
+   {"title": "(8) Other modes", "bullets": ["Performance; novation"]},
+   {"title": "(9) Rationale", "bullets": ["Risk not to be increased behind his back"]},
+   {"title": "(10) Conclusion", "bullets": ["Rights + discharge summarised"]}
+  ]},
+ {"id": "d5_map", "type": "answermap", "question": "BAILMENT, BAILOR, BAILEE — what are the OBLIGATIONS of each?", "sub": "ss. 148–171 · Contract Act 1872 · LHC 2023",
+  "intro": "Define with essentials; then every duty of bailor and bailee with its section and statutory illustration.",
+  "left": [
+   {"title": "(1)–(3) Definition and essentials", "bullets": ["s. 148; delivery (s. 149)", "Not a bank deposit of money"]},
+   {"title": "(4) Bailor's duties", "bullets": ["Disclose faults (s. 150) — vicious horse", "Hire: liable even if unaware", "Expenses (s. 158); recall (s. 159)", "Defective title (s. 164)"]}
+  ],
+  "right": [
+   {"title": "(5) Bailee's duties", "bullets": ["Care (ss. 151–152; Lily White)", "Inconsistent / unauthorised use (ss. 153–154)", "No mixing (ss. 155–157)", "Return; risk after default (ss. 160–161)", "Increase (s. 163); title (ss. 165–167)"]},
+   {"title": "(6)–(7) Rights; termination", "bullets": ["Liens (ss. 170–171); s. 180", "s. 162 death"]},
+   {"title": "(8)–(9) Illustration and conclusion", "bullets": ["Car at a workshop"]}
+  ]},
+ {"id": "d6_map", "type": "answermap", "question": "EXPRESS and IMPLIED authority of an agent; when may the principal REPUDIATE under s. 215?", "sub": "ss. 186–189, 211, 215–216, 237 · LHC 2023",
+  "intro": "Express = words; implied = circumstances, conduct, dealing, incidental, necessity, custom; s. 215 undoes undisclosed self-dealing.",
+  "left": [
+   {"title": "(1) Authority is the heart", "bullets": ["s. 182; s. 186"]},
+   {"title": "(2) Express", "bullets": ["Words spoken or written (s. 187)"]},
+   {"title": "(3) Implied", "bullets": ["Quetta shop illustration"]},
+   {"title": "(4) Factors", "bullets": ["Dealing; position; incidental (s. 188)", "Custom (s. 211); emergency (s. 189)"]},
+   {"title": "(5) Ostensible", "bullets": ["s. 237; Freeman & Lockyer"]}
+  ],
+  "right": [
+   {"title": "(6) Powers of attorney", "bullets": ["Strict construction; no self-transfers"]},
+   {"title": "(7)–(8) s. 215", "bullets": ["Own account; agency business", "No informed consent", "Concealment OR disadvantage", "Mine illustration"]},
+   {"title": "(9) Rationale", "bullets": ["Fiduciary; no man serves two masters"]},
+   {"title": "(10) s. 216 and cases", "bullets": ["Secret profit; Armstrong v. Jackson"]},
+   {"title": "(11) Conclusion", "bullets": ["Repudiate or adopt"]}
+  ]},
+ {"id": "d7_map", "type": "answermap", "question": "How is an AGENCY CREATED, and how does it TERMINATE?", "sub": "ss. 182–210, 237 · Contract Act 1872",
+  "intro": "Five modes of creation (no consideration needed); termination by the parties or by law — but not where coupled with interest or partly exercised.",
+  "left": [
+   {"title": "(1) Introduction", "bullets": ["ss. 182–185"]},
+   {"title": "(2)–(3) Express; implied", "bullets": ["s. 187; s. 188"]},
+   {"title": "(4) Estoppel", "bullets": ["s. 237"]},
+   {"title": "(5) Necessity", "bullets": ["s. 189; Swaffield; Springer"]},
+   {"title": "(6) Ratification", "bullets": ["ss. 196–200; Kelner; Keighley Maxsted", "Relates back (Bolton Partners)"]}
+  ],
+  "right": [
+   {"title": "(7)–(8) By the parties", "bullets": ["Revocation (ss. 201, 203, 207)", "Renunciation; agreement"]},
+   {"title": "(9) By operation of law", "bullets": ["Completion; death; insanity; insolvency", "Sub-agents (s. 210)"]},
+   {"title": "(10) Irrevocable", "bullets": ["Interest (s. 202); partly exercised (s. 204)"]},
+   {"title": "(11) Compensation, notice", "bullets": ["ss. 205–206"]},
+   {"title": "(12)–(13) When effective", "bullets": ["On knowledge (s. 208)"]}
+  ]},
+ {"id": "d8_map", "type": "answermap", "question": "SALE vs AGREEMENT TO SELL — what is the difference?", "sub": "SGA ss. 4, 8, 18–26, 46, 55–58",
+  "intro": "One transfers ownership now, the other promises it later or on a condition — and that decides risk, remedies, insolvency and resale.",
+  "left": [
+   {"title": "(1)–(2) Definitions", "bullets": ["s. 4(1), (3), (4)"]},
+   {"title": "(3) Essentials", "bullets": ["Parties, goods, price, property, validity"]},
+   {"title": "(4) The differences", "bullets": ["Executed / executory; in rem / in personam", "Risk; perishing; price / damages", "Insolvency; resale"]}
+  ],
+  "right": [
+   {"title": "(5) Conversion", "bullets": ["ss. 19–24"]},
+   {"title": "(6) Illustration", "bullets": ["100 bags of DAP — s. 23, s. 26"]},
+   {"title": "(7) Other transactions", "bullets": ["Hire-purchase (Helby v. Matthews)", "Bailment; barter; work and labour"]},
+   {"title": "(8) Conclusion", "bullets": ["Property decides everything"]}
+  ]},
+ {"id": "d9_map", "type": "answermap", "question": "NEMO DAT QUOD NON HABET — the rule and its EXCEPTIONS", "sub": "SGA ss. 27–30, 54(3) · Contract Act ss. 169, 176, 178",
+  "intro": "The rule protects ownership; the exceptions protect good-faith buyers where the owner's conduct or consent made the loss possible.",
+  "left": [
+   {"title": "(1)–(2) The maxim and s. 27", "bullets": ["No better title than the seller had"]},
+   {"title": "(3) Rationale", "bullets": ["Two innocent parties"]},
+   {"title": "(4) Estoppel", "bullets": ["Eastern Distributors; not mere possession"]},
+   {"title": "(5) Mercantile agent", "bullets": ["Consent; ordinary course; good faith", "Folkes v. King; Pearson v. Rose"]},
+   {"title": "(6) Joint owner", "bullets": ["s. 28"]}
+  ],
+  "right": [
+   {"title": "(7) Voidable contract", "bullets": ["s. 29; Phillips v. Brooks vs Cundy"]},
+   {"title": "(8) Seller in possession", "bullets": ["s. 30(1)"]},
+   {"title": "(9) Buyer in possession", "bullets": ["s. 30(2); not a hirer"]},
+   {"title": "(10)–(11) Other laws; no market overt", "bullets": ["Finder, pawnee, unpaid seller, court"]},
+   {"title": "(12)–(13) Illustration; conclusion", "bullets": ["Dealer vs thief"]}
+  ]},
+ {"id": "d10_map", "type": "answermap", "question": "DELIVERY — definition, TYPES and RULES", "sub": "SGA ss. 2(2), 31–44",
+  "intro": "Delivery is the voluntary transfer of possession — actual, symbolic or constructive — governed by the rules in ss. 32–44, separate from passing of property.",
+  "left": [
+   {"title": "(1) Introduction", "bullets": ["ss. 31–32"]},
+   {"title": "(2) Definition", "bullets": ["s. 2(2); s. 33; elements"]},
+   {"title": "(3) Delivery vs property", "bullets": ["ss. 18–26 separate"]},
+   {"title": "(4) Types", "bullets": ["Actual; symbolic; constructive (s. 36(3))"]}
+  ],
+  "right": [
+   {"title": "(5) Rules", "bullets": ["Part delivery; application; place; time", "Reasonable hour; expenses", "Wrong quantity (s. 37 — Pakistan 1994)", "Instalments; carrier; distant place", "Examination; acceptance; rejection"]},
+   {"title": "(6) Illustration", "bullets": ["Cotton in a warehouse"]},
+   {"title": "(7) Conclusion", "bullets": ["Possession, not ownership"]}
+  ]},
+ {"id": "d11_map", "type": "answermap", "question": "CAVEAT EMPTOR — the doctrine and its EXCEPTIONS", "sub": "SGA ss. 14–17, 16A, 62",
+  "intro": "The rule in s. 16 is hedged by many exceptions — and in Pakistan s. 16A imposes a duty on the seller to disclose defects.",
+  "left": [
+   {"title": "(1)–(3) Meaning, basis, rationale", "bullets": ["s. 16 opening words"]},
+   {"title": "(4) Fitness — s. 16(1)", "bullets": ["Priest v. Last; Frost", "Trade name — Baldry"]},
+   {"title": "(5) Merchantable — s. 16(2)", "bullets": ["Grant v. Australian Knitting Mills"]},
+   {"title": "(6) Usage — s. 16(3)", "bullets": []},
+   {"title": "(7) Description — s. 15", "bullets": ["Varley v. Whipp; Beale v. Taylor"]}
+  ],
+  "right": [
+   {"title": "(8) Sample — s. 17", "bullets": ["Drummond v. Van Ingen"]},
+   {"title": "(9) s. 16A — Pakistan", "bullets": ["Duty to inform of defects", "Unless agreed / obvious"]},
+   {"title": "(10) Fraud and concealment", "bullets": ["Contract Act ss. 17–19"]},
+   {"title": "(11) Title — s. 14", "bullets": ["Rowland v. Divall"]},
+   {"title": "(12)–(13) Exclusion; conclusion", "bullets": ["s. 62; Wallis v. Pratt"]}
+  ]},
+ {"id": "d12_map", "type": "answermap", "question": "Who is an UNPAID SELLER, and what are his RIGHTS against the goods?", "sub": "SGA ss. 45–54",
+  "intro": "Rights in the goods survive the passing of property: lien, stoppage in transit, withholding delivery and resale.",
+  "left": [
+   {"title": "(1) Introduction", "bullets": ["Real rights, not just a suit"]},
+   {"title": "(2) Definition — s. 45", "bullets": ["Whole price unpaid; instrument dishonoured", "Persons in seller's position"]},
+   {"title": "(3) Rights — s. 46", "bullets": ["Even if property passed"]},
+   {"title": "(4) Lien", "bullets": ["s. 47 three cases; s. 48", "Loss — s. 49"]}
+  ],
+  "right": [
+   {"title": "(5) Stoppage in transit", "bullets": ["Insolvency; transit (s. 51)", "Possession or notice (s. 52)"]},
+   {"title": "(6)–(7) Comparison; withholding", "bullets": ["s. 46(2)"]},
+   {"title": "(8) Sub-sale / pledge", "bullets": ["s. 53 — document of title exception"]},
+   {"title": "(9) Resale", "bullets": ["s. 54 — notice, damages, profit, title"]},
+   {"title": "(10)–(12) Personal remedies; illustration; conclusion", "bullets": ["ss. 55–61"]}
+  ]}
+]
