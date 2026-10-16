@@ -1,0 +1,19 @@
+[
+  {"id": "computation_rules", "type": "cards", "cols": 3, "title": "Computing the period of limitation — what is excluded", "cards": [
+    {"title": "s. 12(1) — first day", "color": "navy", "text": "The day from which the period runs is excluded"},
+    {"title": "s. 12(2)–(5) — copies", "color": "teal", "text": "Day of judgment + time from copy application to the day intimated (appeals, reviews, leave, awards)"},
+    {"title": "s. 4 — court closed", "color": "slate", "text": "File on the day the court reopens"},
+    {"title": "s. 13 — defendant abroad", "color": "purple", "text": "Time of the defendant's absence from Pakistan (suits)"},
+    {"title": "s. 14 — wrong court", "color": "orange", "text": "Bona fide proceeding, same parties and cause, defect of jurisdiction"},
+    {"title": "s. 15 — stay and notice", "color": "red", "text": "Time under injunction or stay; period of statutory notice (s. 80 CPC)"},
+    {"title": "s. 16 — sale set-aside proceedings", "color": "brown", "text": "For the auction-purchaser's suit for possession"},
+    {"title": "ss. 17–18 — death, fraud", "color": "maroon", "text": "From a legal representative's existence; from knowledge of fraud"},
+    {"title": "ss. 19–20 — fresh start", "color": "green", "text": "Written acknowledgment or part-payment before expiry"}
+  ]},
+  {"id": "acknowledgment", "type": "decide", "title": "Is there a valid acknowledgment under section 19?", "q": [
+    {"ask": "Is it in writing?", "yes": "Go on", "no": "No acknowledgment — an oral admission does not count"},
+    {"ask": "Is it signed by the party liable or his authorised agent?", "yes": "Go on (s. 19, Expl. II; s. 21)", "no": "No acknowledgment"},
+    {"ask": "Does it admit a subsisting liability or jural relationship?", "yes": "Go on — refusal to pay, set-off or no exact amount does not matter (Expl. I)", "no": "No acknowledgment"},
+    {"ask": "Was it signed before the period expired?", "yes": "Fresh period from the date of signing (undated? prove the date orally — s. 19(2))", "no": "No revival — consider a signed promise under Contract Act s. 25(3)"}
+  ]}
+]
