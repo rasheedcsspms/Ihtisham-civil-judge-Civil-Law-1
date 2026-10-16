@@ -1,0 +1,17 @@
+[
+  {"id": "plaint_anatomy", "type": "flow", "title": "Anatomy of a plaint — Order VII CPC", "width": 760, "steps": [
+    {"title": "Heading and title", "text": "Court; suit number; parties with full description; nature of suit and provision", "law": "O. VII r. 1(a)–(d)", "color": "navy"},
+    {"title": "Material facts", "text": "Numbered, chronological, concise; particulars of fraud; property description", "law": "O. VI rr. 2, 4; O. VII r. 3", "color": "teal"},
+    {"title": "Cause of action and jurisdiction", "text": "When the cause of action arose; territorial, pecuniary and subject-matter jurisdiction", "law": "O. VII r. 1(e), (f)", "color": "purple"},
+    {"title": "Limitation, valuation, court fee", "text": "Exemption if late; value for jurisdiction and court fee; fee paid", "law": "O. VII rr. 1(i), 6", "color": "orange"},
+    {"title": "Prayer", "text": "Specific relief, alternative relief, costs, any other relief", "law": "O. VII rr. 7–8", "color": "red"},
+    {"title": "Signature, verification, annexures", "text": "Party and counsel; verification by paragraphs; documents, copies, address, lists", "law": "O. VI rr. 14–15; O. VII rr. 9, 14–26", "color": "green"}
+  ]},
+  {"id": "ws_structure", "type": "flow", "title": "Structure of a written statement — Order VIII CPC", "width": 760, "steps": [
+    {"title": "Title", "text": "As in the plaint; on behalf of which defendant", "law": "O. VI r. 1", "color": "navy"},
+    {"title": "Preliminary objections", "text": "Cause of action, limitation, jurisdiction, res judicata, parties, valuation, notice, s. 42 proviso", "law": "O. VIII r. 2", "color": "red"},
+    {"title": "Parawise reply", "text": "Admit; deny with own version; or not admit — no general or evasive denial", "law": "O. VIII rr. 3–5", "color": "teal"},
+    {"title": "Additional pleas and set-off", "text": "New facts specially pleaded; set-off with particulars; later grounds", "law": "O. VIII rr. 2, 6–8", "color": "purple"},
+    {"title": "Prayer, signature, verification", "text": "Dismissal with costs; special costs s. 35A; verification by paragraphs", "law": "O. VI rr. 14–15", "color": "green"}
+  ]}
+]

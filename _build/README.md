@@ -35,3 +35,11 @@ Criminal Law paper topics (knowledge bases only) are built into `../Criminal Law
 ./build.sh crtopic3 "Topic 3 - Code of Criminal Procedure" kb "Criminal Law"
 ./build.sh crtopic4 "Topic 4 - Hudood Ordinances" kb "Criminal Law"
 ```
+
+Qanun-e-Shahadat and Pleadings paper topics (knowledge bases only) are built into `../Qanun-e-Shahadat and Pleadings/`:
+
+```bash
+./build.sh qstopic1 "Topic 1 - QSO Witnesses and Relevancy" kb "Qanun-e-Shahadat and Pleadings"
+./build.sh qstopic2 "Topic 2 - QSO Proof and Examination" kb "Qanun-e-Shahadat and Pleadings"
+./build.sh qstopic3 "Topic 3 - Pleadings" kb "Qanun-e-Shahadat and Pleadings"
+```
