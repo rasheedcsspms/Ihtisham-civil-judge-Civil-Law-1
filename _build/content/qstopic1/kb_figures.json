@@ -1,0 +1,21 @@
+[
+  {"id": "privileges", "type": "tree", "root": "Privileged communications — Arts. 4 to 14", "rootSub": "the witness is competent, but certain matters cannot be compelled or permitted", "cols": 3, "children": [
+    {"title": "Judicial", "color": "navy", "bullets": ["Art. 4 — Judges and Magistrates", "Own conduct in court; except by superior court's order"]},
+    {"title": "Marital", "color": "purple", "bullets": ["Art. 5 — communications during marriage", "Except suits between spouses / crimes against each other"]},
+    {"title": "State", "color": "red", "bullets": ["Art. 6 — unpublished records of affairs of State", "Art. 7 — official confidence", "Art. 8 — sources of information"]},
+    {"title": "Professional", "color": "teal", "bullets": ["Art. 9 — advocate and client", "Art. 10 — interpreters, clerks", "Art. 11 — no waiver by giving evidence"]},
+    {"title": "Legal advice", "color": "orange", "bullets": ["Art. 12 — confidential communications with legal advisers"]},
+    {"title": "Documents", "color": "slate", "bullets": ["Art. 13 — title deeds of non-party", "Art. 14 — documents another could refuse"]}
+  ]},
+  {"id": "relevancy_classes", "type": "cards", "cols": 3, "title": "The principal classes of relevant facts — Arts. 19 to 29", "cards": [
+    {"title": "Art. 19 — same transaction", "color": "navy", "text": "Res gestae: what was said or done at or about the time"},
+    {"title": "Art. 20 — cause and effect", "color": "teal", "text": "Occasion, cause, effect, state of things, opportunity"},
+    {"title": "Art. 21 — motive and conduct", "color": "red", "text": "Motive, preparation, previous or subsequent conduct; prompt complaint"},
+    {"title": "Art. 22 — explanatory facts", "color": "purple", "text": "Introduce, explain, identity, time, place, relation of parties"},
+    {"title": "Art. 23 — conspiracy", "color": "maroon", "text": "Acts and words of one conspirator relevant against all"},
+    {"title": "Art. 24 — alibi", "color": "orange", "text": "Facts inconsistent, or making a fact highly probable / improbable"},
+    {"title": "Arts. 25–26", "color": "slate", "text": "Damages; existence of a right or custom"},
+    {"title": "Arts. 27–28 — mind and design", "color": "green", "text": "State of mind or body; series of similar acts"},
+    {"title": "Art. 29 — course of business", "color": "brown", "text": "The usual practice shows the act was done"}
+  ]}
+]
