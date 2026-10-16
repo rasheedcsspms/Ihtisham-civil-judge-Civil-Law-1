@@ -1,0 +1,9 @@
+[
+  {"id": "reg_refusal", "type": "flow", "title": "Refusal of registration — the route to a remedy", "width": 760, "steps": [
+    {"title": "Sub-Registrar refuses", "text": "Order with reasons in Book No. 2; 'registration refused' endorsed; free copy of reasons", "law": "s. 71", "color": "red"},
+    {"title": "Ground other than denial of execution", "text": "Appeal to the Registrar within 30 days", "law": "s. 72", "color": "orange"},
+    {"title": "Ground of denial of execution", "text": "Application to the Registrar within 30 days; enquiry into execution and compliance, with civil-court powers", "law": "ss. 73–75", "color": "purple"},
+    {"title": "Registrar refuses", "text": "No appeal; order of refusal with reasons", "law": "s. 76", "color": "slate"},
+    {"title": "Civil suit within 30 days", "text": "Decree directing registration; other remedies on the unregistered document not lost", "law": "s. 77", "color": "green"}
+  ]}
+]
