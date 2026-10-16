@@ -1,0 +1,18 @@
+[
+  {"id": "burden_map", "type": "tree", "root": "Burden of proof — Chapter IX QSO", "rootSub": "the legal burden is fixed; the evidential onus shifts during the trial", "cols": 3, "children": [
+    {"title": "General rules", "color": "navy", "bullets": ["Art. 117 — who asserts must prove", "Art. 118 — who would fail without evidence", "Art. 119 — particular fact", "Art. 120 — foundation for admissibility"]},
+    {"title": "Criminal", "color": "red", "bullets": ["Prosecution — beyond reasonable doubt", "Art. 121 — general exceptions on accused", "Art. 122 — special knowledge"]},
+    {"title": "Life and death", "color": "slate", "bullets": ["Art. 123 — alive within 30 years", "Art. 124 — not heard of for 7 years"]},
+    {"title": "Relationships", "color": "teal", "bullets": ["Art. 125 — partners, landlord-tenant, principal-agent", "Art. 126 — possession and ownership", "Art. 127 — active confidence"]},
+    {"title": "Legitimacy", "color": "purple", "bullets": ["Art. 128 — conclusive proof", "6 lunar months / 2 years after dissolution"]},
+    {"title": "Presumptions of fact", "color": "orange", "bullets": ["Art. 129 — may presume", "Stolen goods; accomplice; regularity", "Withheld evidence unfavourable"]}
+  ]},
+  {"id": "examination_flow", "type": "flow", "title": "Examination of a witness — Arts. 132 to 161", "width": 760, "steps": [
+    {"title": "Oath and competence", "text": "Competence (Art. 3); oath or affirmation; video link if allowed (Art. 164)", "law": "Arts. 3, 164", "color": "slate"},
+    {"title": "Examination-in-chief", "text": "By the party calling; no leading questions on disputed matters", "law": "Arts. 132, 137", "color": "navy"},
+    {"title": "Cross-examination", "text": "By the adverse party; leading questions; previous statements; credit", "law": "Arts. 133, 138, 140, 141", "color": "red"},
+    {"title": "Re-examination", "text": "To explain matters in cross; new matter only with leave", "law": "Art. 133(3)", "color": "teal"},
+    {"title": "If hostile", "text": "Court may permit cross-examination by the party calling; impeach credit with consent", "law": "Arts. 150, 151", "color": "orange"},
+    {"title": "Court's questions", "text": "Any question, any time; judgment only on relevant, proved facts", "law": "Art. 161", "color": "green"}
+  ]}
+]
