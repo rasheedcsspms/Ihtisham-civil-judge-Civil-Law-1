@@ -1,0 +1,40 @@
+[
+  {"id": "courts_powers", "type": "org", "title": "Criminal courts and their sentencing powers — ss. 6, 9, 31–34 CrPC", "root": {"title": "High Court", "sub": "any sentence; confirms death sentences (s. 374)", "color": "navy", "children": [
+    {"title": "Courts of Session", "sub": "SJ / ASJ — any sentence (death confirmed); Asst SJ — up to 7 years", "color": "red"},
+    {"title": "Courts of Magistrates", "sub": "s. 30 Magistrate — up to 7 years, offences not punishable with death", "color": "teal", "children": [
+      {"title": "1st class", "sub": "3 years; Rs. 45,000; arsh, daman", "color": "green"},
+      {"title": "2nd class", "sub": "1 year; Rs. 15,000", "color": "orange"},
+      {"title": "3rd class", "sub": "1 month; Rs. 3,000", "color": "slate"}
+    ]}
+  ]}},
+  {"id": "processes", "type": "flow", "title": "Compelling appearance — the escalation", "width": 760, "steps": [
+    {"title": "Summons", "text": "Written, signed, sealed; personal service, adult male member of family, or affixation", "law": "ss. 68–74", "color": "teal"},
+    {"title": "Warrant of arrest", "text": "In lieu of or in addition to summons, for reasons recorded; may be bailable (endorsed)", "law": "ss. 75–86, 90", "color": "orange"},
+    {"title": "Proclamation", "text": "After a warrant and evidence of abscondence; at least 30 days; read, affixed at house and court-house", "law": "s. 87", "color": "red"},
+    {"title": "Attachment", "text": "Movable or immovable property; claims within 6 months; sale after 6 months", "law": "s. 88", "color": "maroon"},
+    {"title": "Restoration / evidence in absence", "text": "Restore within 2 years if no abscondence and no notice (appeal — s. 405); depositions under s. 512", "law": "ss. 89, 512", "color": "slate"}
+  ]},
+  {"id": "investigation_flow", "type": "flow", "title": "From information to police report", "width": 760, "steps": [
+    {"title": "FIR", "text": "Cognizable offence — written, read over, signed; women's provisos", "law": "s. 154", "color": "navy"},
+    {"title": "Report to Magistrate; to the spot", "text": "Investigation without a Magistrate's order", "law": "ss. 156, 157", "color": "teal"},
+    {"title": "Statements and confessions", "text": "s. 161 by police (not signed; contradiction only); s. 164 by Magistrate", "law": "ss. 161–164", "color": "purple"},
+    {"title": "Arrest, 24 hours, remand", "text": "Physical remand up to 15 days in all; women — not except qatl / dacoity", "law": "ss. 61, 167", "color": "red"},
+    {"title": "Police report (challan)", "text": "Through the Public Prosecutor; interim report after 14 days; or cancellation report", "law": "s. 173", "color": "green"}
+  ]},
+  {"id": "trial_stages", "type": "flow", "title": "A trial before the Court of Session — Chapter XXII-A", "width": 760, "steps": [
+    {"title": "Copies to the accused", "text": "FIR, police report, ss. 161 / 164 statements, inspection and recovery notes — 7 days before", "law": "s. 265C", "color": "slate"},
+    {"title": "Charge and plea", "text": "Charge framed if ground to proceed; read and explained; plea recorded", "law": "ss. 265D, 265E", "color": "navy"},
+    {"title": "Prosecution evidence", "text": "Witnesses examined and cross-examined", "law": "s. 265F", "color": "red"},
+    {"title": "Statement of the accused", "text": "Every incriminating circumstance put; optional evidence on oath", "law": "ss. 342, 340(2)", "color": "orange"},
+    {"title": "Defence evidence; arguments", "text": "Defence witnesses; summing up", "law": "ss. 265F, 265G", "color": "teal"},
+    {"title": "Judgment", "text": "Acquittal or conviction; acquittal possible at any stage (s. 265K); death sentence to High Court", "law": "ss. 265H, 367, 374", "color": "green"}
+  ]},
+  {"id": "bail_forms", "type": "tree", "root": "Forms of bail", "rootSub": "bail ends on cancellation, forfeiture, conviction, acquittal, discharge of sureties or death", "cols": 3, "children": [
+    {"title": "As of right", "color": "green", "bullets": ["Bailable offences — s. 496", "Further inquiry — s. 497(2)", "Statutory delay — s. 497 provisos; s. 426(1A)"]},
+    {"title": "Discretionary", "color": "navy", "bullets": ["Non-bailable — s. 497(1)", "Prohibitory clause: death, life, 10 years", "Concession: under 16, woman, sick"]},
+    {"title": "Before arrest", "color": "purple", "bullets": ["Pre-arrest bail — s. 498", "Mala fide + merits", "Interim, then confirmed or recalled"]},
+    {"title": "Pending appeal", "color": "orange", "bullets": ["Suspension of sentence — s. 426", "To file appeal — s. 426(2A)", "s. 382A short sentences"]},
+    {"title": "Special", "color": "teal", "bullets": ["Bailable warrant — s. 76", "Protective / transit bail", "Own bond — ss. 496, 497(4)"]},
+    {"title": "Security", "color": "red", "bullets": ["Sureties — ss. 499–502", "Deposit / bank guarantee — s. 513", "Forfeiture — s. 514; appeal s. 515"]}
+  ]}
+]
