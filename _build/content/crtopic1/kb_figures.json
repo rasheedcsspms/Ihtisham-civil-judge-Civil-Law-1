@@ -1,0 +1,28 @@
+[
+  {"id": "stages_crime", "type": "flow", "title": "Stages of a crime", "width": 760, "steps": [
+    {"title": "Intention", "text": "A mental state only — never punishable", "law": "—", "color": "slate"},
+    {"title": "Preparation", "text": "Arranging means — punishable only by special sections", "law": "ss. 122, 126, 233–235, 257, 399, 402", "color": "orange"},
+    {"title": "Attempt", "text": "An act towards commission beyond preparation, which fails", "law": "s. 511; ss. 324, 393, 398", "color": "red"},
+    {"title": "Commission", "text": "The full offence with its actus reus and mens rea", "law": "the offence-creating section", "color": "maroon"}
+  ]},
+  {"id": "general_exceptions", "type": "tree", "root": "General exceptions — Chapter IV PPC", "rootSub": "the accused must prove the facts (Art. 121, Qanun-e-Shahadat) on a preponderance of probability", "cols": 3, "children": [
+    {"title": "Mistake and authority", "color": "navy", "bullets": ["s. 76 — bound by law / mistake of fact", "s. 77 — Judge acting judicially", "s. 78 — under court order", "s. 79 — justified / mistake of fact"]},
+    {"title": "No guilty mind", "color": "teal", "bullets": ["s. 80 — accident in a lawful act", "s. 81 — necessity", "s. 95 — trifles"]},
+    {"title": "Incapacity", "color": "purple", "bullets": ["s. 82 — child under 10", "s. 83 — 10 to 14, immature", "s. 84 — unsound mind", "ss. 85–86 — intoxication"]},
+    {"title": "Consent", "color": "orange", "bullets": ["s. 87 — 18+, no death / GH", "s. 88 — for his benefit", "s. 89 — guardian of child / insane", "ss. 90–93 — limits; no consent possible; communication"]},
+    {"title": "Compulsion", "color": "red", "bullets": ["s. 94 — threat of instant death", "Not murder or capital offences against the State", "Qisas chapter: ikrah-e-tam / naqis (s. 303)"]},
+    {"title": "Private defence", "color": "green", "bullets": ["ss. 96–98 — body and property", "s. 99 — limits", "ss. 100–106 — death, commencement, continuance"]}
+  ]},
+  {"id": "private_defence", "type": "decide", "title": "Private defence of the body — may death be caused?", "q": [
+    {"ask": "Is there an offence (or attempt / threat) affecting the body of the accused or another?", "yes": "Go on (s. 97)", "no": "No right of private defence"},
+    {"ask": "Was there time to seek the protection of the public authorities?", "yes": "No right (s. 99)", "no": "Go on"},
+    {"ask": "Was the attacker a public servant acting in good faith under colour of office, without threat of death or grievous hurt?", "yes": "No right (s. 99)", "no": "Go on"},
+    {"ask": "Was the assault of a kind in s. 100 — fear of death or GH, rape, unnatural lust, kidnapping / abduction, confinement without recourse?", "yes": "Right extends to causing death (s. 100), if no more harm than necessary", "no": "Any harm other than death (s. 101)"},
+    {"ask": "Did the apprehension of danger still continue when the harm was caused?", "yes": "Within the right (s. 102)", "no": "Right had ended — liable (excess)"}
+  ]},
+  {"id": "abetment_forms", "type": "org", "title": "Abetment — section 107 PPC", "root": {"title": "Abetment of a thing", "sub": "a substantive offence — the act need not be committed (s. 108, Expl. 2)", "color": "navy", "children": [
+    {"title": "Instigation", "sub": "goading, urging; wilful misrepresentation or concealment (Expl. 1)", "color": "red"},
+    {"title": "Conspiracy", "sub": "agreement + an act or illegal omission in pursuance", "color": "purple"},
+    {"title": "Intentional aid", "sub": "facilitating before or at the time of the act (Expl. 2)", "color": "teal"}
+  ]}}
+]
