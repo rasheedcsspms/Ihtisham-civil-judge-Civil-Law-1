@@ -26,3 +26,12 @@ Civil Law Paper II topics are built into `../Civil Law-II/` by passing the paper
 ```bash
 ./build.sh cl2topic1 "Topic 1 - Muslim Family Law" kb "Civil Law-II"
 ```
+
+Criminal Law paper topics (knowledge bases only) are built into `../Criminal Law/`:
+
+```bash
+./build.sh crtopic1 "Topic 1 - PPC General Principles" kb "Criminal Law"
+./build.sh crtopic2 "Topic 2 - PPC Specific Offences" kb "Criminal Law"
+./build.sh crtopic3 "Topic 3 - Code of Criminal Procedure" kb "Criminal Law"
+./build.sh crtopic4 "Topic 4 - Hudood Ordinances" kb "Criminal Law"
+```
