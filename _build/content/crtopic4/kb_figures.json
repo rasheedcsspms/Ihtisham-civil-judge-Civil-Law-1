@@ -1,0 +1,17 @@
+[
+  {"id": "hirz_map", "type": "tree", "root": "Hirz — an arrangement made for the custody of property (s. 2(d))", "rootSub": "theft liable to hadd must be committed from a hirz (s. 5)", "cols": 3, "children": [
+    {"title": "Hirz by place (bil-makan)", "color": "navy", "bullets": ["A house — door open or shut", "An almirah, box or other container", "Shop, store, safe, locked vehicle"]},
+    {"title": "Hirz by guard (bil-hafiz)", "color": "teal", "bullets": ["Property in the custody of a person", "Paid or unpaid custodian", "Purse carried; jewels worn"]},
+    {"title": "One or many?", "color": "orange", "bullets": ["One family in a house — one hirz", "Several families — each portion a separate hirz", "Values from separate hirz are not added (s. 6)"]},
+    {"title": "No hadd because of access", "color": "red", "bullets": ["Guest from host's house (s. 10(b))", "Servant from master's hirz he may enter (s. 10(c))"]},
+    {"title": "Several thieves", "color": "purple", "bullets": ["Hadd on all who entered the hirz (s. 8)", "If each equal share ≥ nisab"]},
+    {"title": "No hirz", "color": "slate", "bullets": ["Property lying open or unguarded", "Ta'zir theft — PPC punishment (ss. 13–14)"]}
+  ]},
+  {"id": "hadd_theft_flow", "type": "flow", "title": "Theft liable to hadd — proof and implementation", "width": 760, "steps": [
+    {"title": "Trial by the Court of Session", "text": "Not a s. 30 Magistrate; tehsil headquarters; Muslim presiding officer", "law": "ss. 24, 25", "color": "navy"},
+    {"title": "Strict proof", "text": "Plea of guilty, or two Muslim adult male eye-witnesses (not the victim) after tazkiyah; victim's statement first", "law": "s. 7", "color": "teal"},
+    {"title": "Sentence", "text": "Right hand at the wrist; second time left foot at the ankle; third time life", "law": "s. 9(1)–(3)", "color": "red"},
+    {"title": "Appeal and confirmation by the FSC", "text": "Not executed until confirmed; meanwhile simple imprisonment; no remission or commutation", "law": "ss. 9(4), 24(4)", "color": "purple"},
+    {"title": "Execution by the authorised medical officer", "text": "Postponed if amputation may cause death; not enforced on retraction, witness resiling, victim withdrawing, limbs missing", "law": "ss. 9(6)–(7), 11", "color": "green"}
+  ]}
+]
