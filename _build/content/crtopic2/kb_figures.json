@@ -1,0 +1,31 @@
+[
+  {"id": "qatl_kinds", "type": "cards", "cols": 2, "title": "The four kinds of qatl — ss. 300, 315, 318, 321 PPC", "cards": [
+    {"title": "Qatl-i-amd (s. 300)", "color": "red", "text": "Intention to kill, or to injure fatally, or knowledge of imminent danger — death as qisas; death or life as ta'zir; up to 25 years (s. 302)"},
+    {"title": "Qatl shibh-i-amd (s. 315)", "color": "orange", "text": "Intent to harm with a weapon or act not likely to cause death — diyat + up to 25 years (s. 316)"},
+    {"title": "Qatl-i-khata (s. 318)", "color": "teal", "text": "No intention — mistake of act or of fact — diyat; + 5 years if rash; + 10 years if by driving (ss. 319, 320)"},
+    {"title": "Qatl-bis-sabab (s. 321)", "color": "slate", "text": "No intention — an unlawful act becomes the cause of death — diyat only (s. 322)"}
+  ]},
+  {"id": "hurt_kinds", "type": "org", "title": "Hurt — section 332 PPC", "root": {"title": "Hurt", "sub": "pain, harm, disease, infirmity, injury, disfigurement — without death; plus other hurts (ss. 337G–337L)", "color": "navy", "children": [
+    {"title": "Itlaf-i-udw", "sub": "dismembering an organ (s. 333)", "color": "red"},
+    {"title": "Itlaf-i-salahiyyat-i-udw", "sub": "destroying an organ's function (s. 335)", "color": "maroon"},
+    {"title": "Shajjah", "sub": "head or face — 6 kinds (s. 337)", "color": "orange"},
+    {"title": "Jurh", "sub": "rest of the body — jaifah / ghayr-jaifah (s. 337B)", "color": "teal", "children": [
+      {"title": "Jaifah", "sub": "reaches trunk cavity", "color": "purple"},
+      {"title": "Ghayr-jaifah", "sub": "6 kinds — daman", "color": "green"}
+    ]}
+  ]}},
+  {"id": "property_offences", "type": "tree", "root": "Offences against property — Chapter XVII PPC", "rootSub": "dishonesty (s. 24) is the common mental element", "cols": 3, "children": [
+    {"title": "Taking without consent", "color": "navy", "bullets": ["Theft — s. 378", "Criminal misappropriation — s. 403", "Theft liable to hadd — Hudood (Topic 4)"]},
+    {"title": "Taking by fear or force", "color": "red", "bullets": ["Extortion — s. 383", "Robbery — s. 390", "Dacoity — s. 391 (five or more)"]},
+    {"title": "Abuse of trust or deceit", "color": "purple", "bullets": ["Criminal breach of trust — s. 405", "Cheating — s. 415", "Dishonest cheque — s. 489F"]},
+    {"title": "Handling", "color": "teal", "bullets": ["Receiving stolen property — s. 411", "Habitual dealing — s. 413"]},
+    {"title": "Damage", "color": "orange", "bullets": ["Mischief — s. 425", "By fire or explosive — ss. 435–436"]},
+    {"title": "Entry", "color": "green", "bullets": ["Criminal trespass — s. 441", "House-trespass, lurking, house-breaking — ss. 442–446"]}
+  ]},
+  {"id": "trespass_ladder", "type": "flow", "title": "Criminal trespass — each step adds an element", "width": 760, "steps": [
+    {"title": "Criminal trespass (s. 441)", "text": "Entry on property in another's possession with intent to offend, intimidate, insult or annoy", "law": "s. 447 — 3 months", "color": "slate"},
+    {"title": "House-trespass (s. 442)", "text": "+ into a dwelling, place of worship or building for custody of property", "law": "s. 448 — 1 year", "color": "teal"},
+    {"title": "Lurking house-trespass (s. 443)", "text": "+ precautions to conceal the trespass; by night (s. 444)", "law": "ss. 453–458", "color": "orange"},
+    {"title": "House-breaking (s. 445)", "text": "+ entry or exit by one of six modes (own passage, climbing, lock, force, unfastening…); by night (s. 446)", "law": "theft by night — up to 14 years (s. 457)", "color": "red"}
+  ]}
+]
