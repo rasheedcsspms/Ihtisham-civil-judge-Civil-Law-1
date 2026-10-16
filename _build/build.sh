@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
-# Usage: ./build.sh topic1 "Topic 1 - CPC Part I and Civil Courts Ordinance" [kb|qa|all]
+# Usage: ./build.sh topic1 "Topic 1 - CPC Part I and Civil Courts Ordinance" [kb|qa|all] [paper folder]
+#        ./build.sh cl2topic1 "Topic 1 - Muslim Family Law" kb "Civil Law-II"
 set -euo pipefail
 HERE="$(cd "$(dirname "$0")" && pwd)"
-T="$1"; NAME="$2"; WHAT="${3:-all}"
-C="$HERE/content/$T"; OUT="$HERE/../Civil Law-I/$NAME"; FIG="$HERE/out/$T/fig"; PDF="$HERE/out/$T/pdf"
+T="$1"; NAME="$2"; WHAT="${3:-all}"; PAPER="${4:-Civil Law-I}"
+C="$HERE/content/$T"; OUT="$HERE/../$PAPER/$NAME"; FIG="$HERE/out/$T/fig"; PDF="$HERE/out/$T/pdf"
 mkdir -p "$OUT" "$FIG" "$PDF"
-N="${T#topic}"
+N="$(echo "$T" | grep -o '[0-9]*$')"
 if [[ "$WHAT" == kb || "$WHAT" == all ]]; then
   node "$HERE/figures.js" "$C/kb_figures.json" "$FIG" >/dev/null
   cat "$C"/kb_*.md > "$HERE/out/$T/kb.md"

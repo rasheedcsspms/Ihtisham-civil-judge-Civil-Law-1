@@ -20,3 +20,9 @@ Topic folder names used:
 - `topic2` — "Topic 2 - CPC Part II (Decree, Interim Relief, Execution and Remedies)"
 - `topic3` — "Topic 3 - Contract Act (General Principles)"
 - `topic4` — "Topic 4 - Specific Contracts and Sale of Goods"
+
+Civil Law Paper II topics are built into `../Civil Law-II/` by passing the paper folder as the fourth argument:
+
+```bash
+./build.sh cl2topic1 "Topic 1 - Muslim Family Law" kb "Civil Law-II"
+```

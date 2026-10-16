@@ -1,0 +1,52 @@
+[
+  {"id": "dower_kinds", "type": "org", "title": "Kinds of dower (mahr)", "root": {"title": "Dower", "sub": "a debt due to the wife (Quran 4:4)", "color": "navy", "children": [
+    {"title": "Specified (mahr-i-musamma)", "sub": "fixed by agreement; minimum 10 dirhams (Hanafi)", "color": "teal", "children": [
+      {"title": "Prompt (mu'ajjal)", "sub": "on demand · Art. 103", "color": "green"},
+      {"title": "Deferred (mu'wajjal)", "sub": "on dissolution · Art. 104", "color": "orange"}
+    ]},
+    {"title": "Proper (mahr-ul-misl)", "sub": "by her father's family and her qualities", "color": "purple"}
+  ]}},
+  {"id": "dissolution_modes", "type": "tree", "root": "How a Muslim marriage is dissolved", "rootSub": "the MFLO s. 7 / s. 8 procedure applies to every mode except death", "cols": 3, "children": [
+    {"title": "By the husband", "color": "navy", "bullets": ["Talaq — ahsan, hasan, biddat", "Ila; zihar"]},
+    {"title": "By delegated power", "color": "teal", "bullets": ["Talaq-e-tafweez (nikahnama clause 18)", "Wife pronounces; dower intact"]},
+    {"title": "By agreement", "color": "orange", "bullets": ["Khula — wife gives consideration", "Mubarat — mutual aversion"]},
+    {"title": "By the court", "color": "red", "bullets": ["DMMA s. 2 grounds", "Khula decree (FCA s. 10(4))", "Lian"]},
+    {"title": "By death", "color": "slate", "bullets": ["Iddat of 4 months 10 days", "Dower confirmed"]},
+    {"title": "By operation of law", "color": "purple", "bullets": ["Void marriage discovered", "Apostasy — see DMMA s. 4"]}
+  ]},
+  {"id": "talaq_procedure", "type": "flow", "title": "Talaq under section 7 of the MFLO", "width": 760, "steps": [
+    {"title": "Pronouncement", "text": "Talaq in any form — oral, written, single or triple", "law": "s. 7(1)", "color": "navy"},
+    {"title": "Notice to the Chairman + copy to the wife", "text": "As soon as may be; failure — up to 1 year or Rs. 5,000", "law": "s. 7(1), (2)", "color": "red"},
+    {"title": "Arbitration Council", "text": "Constituted within 30 days to attempt reconciliation", "law": "s. 7(4)", "color": "teal"},
+    {"title": "90 days (or end of pregnancy, if later)", "text": "Talaq may be revoked, expressly or by conduct, in this period", "law": "s. 7(3), (5)", "color": "orange"},
+    {"title": "Talaq effective", "text": "Certificate of effectiveness; remarriage of the same parties without halala unless third termination", "law": "s. 7(6); s. 8 for other modes", "color": "green"}
+  ]},
+  {"id": "dmma_grounds", "type": "cards", "cols": 3, "title": "Dissolution of Muslim Marriages Act 1939 — section 2 grounds", "cards": [
+    {"title": "(i) Missing 4 years", "color": "navy", "text": "Notice to heirs, uncle, brother (s. 3); decree suspended 6 months"},
+    {"title": "(ii) No maintenance 2 years", "color": "teal", "text": "Neglect or failure to maintain"},
+    {"title": "(iia) MFLO polygamy", "color": "red", "text": "Additional wife without Arbitration Council permission"},
+    {"title": "(iii) Prison 7 years", "color": "slate", "text": "Only after the sentence is final"},
+    {"title": "(iv) Marital duties 3 years", "color": "brown", "text": "Failure without reasonable cause"},
+    {"title": "(v) Impotence", "color": "purple", "text": "At marriage and continuing; one year to cure"},
+    {"title": "(vi) Insanity / leprosy / VD", "color": "maroon", "text": "Insane for 2 years, or leprosy or virulent venereal disease"},
+    {"title": "(vii) Option of puberty", "color": "green", "text": "Married before 16, repudiated before 18, not consummated"},
+    {"title": "(viia) Lian", "color": "orange", "text": "Husband accuses wife of zina; she denies (2006)"},
+    {"title": "(viii) Cruelty", "color": "red", "text": "Assault or misery, evil company, immoral life, property, religion, inequitable treatment"},
+    {"title": "(ix) Any other Muslim-law ground", "color": "indigo", "text": "Basis of khula decrees (Balqis Fatima; Khurshid Bibi)"},
+    {"title": "ss. 4–5", "color": "olive", "text": "Apostasy does not dissolve by itself; dower preserved"}
+  ]},
+  {"id": "guardianship_map", "type": "tree", "root": "Guardianship and custody of a minor", "rootSub": "the welfare of the minor is the paramount consideration (GWA s. 17)", "cols": 4, "children": [
+    {"title": "Of marriage", "color": "purple", "text": "Father, grandfather, agnates, mother, State; option of puberty"},
+    {"title": "Of the person", "color": "navy", "text": "Father (natural guardian); s. 19(b) — no other guardian while a fit father lives"},
+    {"title": "Of property", "color": "teal", "text": "Father, his executor, paternal grandfather, his executor, court; s. 29 limits"},
+    {"title": "Custody (hizanat)", "color": "red", "text": "Mother — boy till 7, girl till puberty (Hanafi); then other females; then father"}
+  ]},
+  {"id": "family_court_procedure", "type": "flow", "title": "A suit in the Family Court", "width": 760, "steps": [
+    {"title": "Plaint with list of witnesses and précis", "text": "Filed where the wife ordinarily resides (dissolution, dower, maintenance)", "law": "s. 7; r. 6", "color": "navy"},
+    {"title": "Summons and written statement", "text": "Husband may claim restitution in his written statement", "law": "ss. 8, 9", "color": "slate"},
+    {"title": "Pre-trial hearing — reconciliation", "text": "Khula suit: if reconciliation fails, decree forthwith; restore haq mehr received", "law": "s. 10; s. 10(4)", "color": "orange"},
+    {"title": "Issues and evidence", "text": "Interim maintenance by the 14th of each month in maintenance suits", "law": "ss. 10(3), 11, 17A", "color": "teal"},
+    {"title": "Second reconciliation; judgment within 6 months", "text": "CPC and QSO excluded except ss. 10–11 CPC", "law": "ss. 12, 12A, 17", "color": "purple"},
+    {"title": "Decree, copy to Chairman, appeal", "text": "Dissolution effective 90 days after copy sent; appeal in 30 days with exceptions", "law": "ss. 13, 14, 21", "color": "green"}
+  ]}
+]
