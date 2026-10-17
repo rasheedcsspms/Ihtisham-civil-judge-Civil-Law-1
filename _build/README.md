@@ -43,3 +43,11 @@ Qanun-e-Shahadat and Pleadings paper topics (knowledge bases only) are built int
 ./build.sh qstopic2 "Topic 2 - QSO Proof and Examination" kb "Qanun-e-Shahadat and Pleadings"
 ./build.sh qstopic3 "Topic 3 - Pleadings" kb "Qanun-e-Shahadat and Pleadings"
 ```
+
+### General Knowledge (knowledge bases)
+
+```bash
+./build.sh gktopic1 "Topic 1 - Islamic Studies" kb "General Knowledge"
+./build.sh gktopic2 "Topic 2 - Pakistan Studies" kb "General Knowledge"
+./build.sh gktopic3 "Topic 3 - Current Affairs" kb "General Knowledge"
+```

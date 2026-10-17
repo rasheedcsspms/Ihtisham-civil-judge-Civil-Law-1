@@ -1,0 +1,18 @@
+[
+  {"id": "amendments", "type": "cards", "cols": 2, "title": "26th (Oct 2024) and 27th (Nov 2025) Amendments — the key changes", "cards": [
+    {"title": "26th — Chief Justice", "color": "navy", "text": "Special Parliamentary Committee picks the CJP from the 3 senior-most judges; fixed 3-year term"},
+    {"title": "26th — benches and rights", "color": "teal", "text": "Constitutional benches (Art. 191A); Art. 9A clean environment; riba by 1 Jan 2028"},
+    {"title": "27th — Federal Constitutional Court", "color": "purple", "text": "Art. 175C; first CJ Aminuddin Khan; binds the Supreme Court"},
+    {"title": "27th — Chief of Defence Forces", "color": "green", "text": "Art. 243; COAS as CDF (Field Marshal Asim Munir); CJCSC abolished"},
+    {"title": "27th — National Strategic Command", "color": "orange", "text": "Commander NSC (Gen Aamer Raza); lifelong Field Marshal rank"},
+    {"title": "27th — immunity and transfers", "color": "red", "text": "Art. 248 lifetime presidential immunity; Art. 200 transfers via JCP"}
+  ]},
+  {"id": "iran_war", "type": "flow", "title": "The Iran war and Pakistan's mediation", "width": 760, "steps": [
+    {"title": "June 2025 — Twelve-Day War", "text": "Israeli and US strikes on Fordow, Natanz, Isfahan; ceasefire 24 June", "law": "2025", "color": "slate"},
+    {"title": "28 Feb 2026 — war begins", "text": "US–Israeli strikes; Ali Khamenei killed; Hormuz closed; oil above $100", "law": "Feb 2026", "color": "red"},
+    {"title": "8 Apr 2026 — ceasefire", "text": "Brokered by Pakistan; Islamabad Talks 11–12 April (Vance and Ghalibaf)", "law": "Apr 2026", "color": "green"},
+    {"title": "17 Jun 2026 — Islamabad MoU", "text": "14-point interim framework; 60 days to a final deal", "law": "Jun 2026", "color": "teal"},
+    {"title": "July 2026 — collapse", "text": "Ship attacks in Hormuz; US strikes and blockade resume", "law": "Jul 2026", "color": "orange"},
+    {"title": "Oct 2026 — talks via Qatar, Pakistan, Egypt", "text": "Iran's phased plan; no formal ceasefire; Houthi attacks on Saudi Arabia", "law": "Oct 2026", "color": "navy"}
+  ]}
+]

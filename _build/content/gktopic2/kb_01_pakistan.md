@@ -257,7 +257,7 @@
 5. **USA** — Mutual Defence Agreement 1954; U-2 base (Badaber); 1970s opening to China via Pakistan (Kissinger 1971); Afghan jihad (1980s); **Pressler** sanctions (1990); post-9/11 alliance; **2025 thaw** (Trump; tariffs agreement; minerals and crypto cooperation; Field Marshal Munir's visits).
 6. **India** — wars **1947–48, 1965** (Tashkent Declaration **10 January 1966**), **1971**, **Kargil 1999**; **Simla Agreement** (**2 July 1972**); **Lahore Declaration** (Feb 1999); **Kartarpur Corridor** (9 Nov 2019); **May 2025 conflict** — Pahalgam attack (22 April), **Operation Bunyan-um-Marsoos** (10 May), ceasefire **10 May 2025** (Topic 3).
 7. **Afghanistan** — Durand Line dispute; refugees (about 3 million at peak; repatriation drives since 2023); TTP sanctuaries; border clashes **October 2025** and **2026** (Topic 3).
-8. **Saudi Arabia** — **Strategic Mutual Defence Agreement** (**17 September 2025**, Riyadh) — aggression against one is aggression against both.
+8. **Saudi Arabia** — **Strategic Mutual Defence Agreement** (**17 September 2025**, Riyadh) — aggression against one is aggression against both; widened into the **Makkah Joint Defence Agreement** with **Türkiye** (**7 August 2026**).
 9. **Iran** — gas pipeline (IP), border; Pakistan's mediation efforts in the **2026 Iran war** (Topic 3).
 10. **Nuclear** — tests **28 May 1998** (Chagai — **Youm-e-Takbeer**) and 30 May 1998; **A. Q. Khan**; command — **National Command Authority** (2000); since 2025 the **Commander National Strategic Command**.
 
