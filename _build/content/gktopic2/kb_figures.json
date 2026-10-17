@@ -1,0 +1,10 @@
+[
+  {"id": "road_to_pakistan", "type": "flow", "title": "The road to Pakistan — milestones", "width": 760, "steps": [
+    {"title": "1857–1898 — Sir Syed", "text": "War of 1857; Aligarh (1875); two-nation idea; Urdu–Hindi controversy (1867)", "law": "1857–1898", "color": "slate"},
+    {"title": "1906–1916 — organisation", "text": "Simla Deputation; Muslim League (Dhaka); separate electorates (1909); Lucknow Pact", "law": "1906–1916", "color": "navy"},
+    {"title": "1919–1929 — disillusion", "text": "Khilafat; Chauri Chaura; Nehru Report; Jinnah's Fourteen Points", "law": "1919–1929", "color": "teal"},
+    {"title": "1930–1939 — the idea", "text": "Allahabad Address; Round Tables; 'Pakstan' (1933); Act of 1935; Congress rule 1937–39", "law": "1930–1939", "color": "purple"},
+    {"title": "1940–1946 — the demand", "text": "Lahore Resolution; Cripps; Simla; 1945–46 elections; Cabinet Mission; Direct Action", "law": "1940–1946", "color": "orange"},
+    {"title": "1947 — independence", "text": "3 June Plan; Independence Act (18 July); Pakistan (14 August); Radcliffe Award (17 August)", "law": "1947", "color": "green"}
+  ]}
+]
