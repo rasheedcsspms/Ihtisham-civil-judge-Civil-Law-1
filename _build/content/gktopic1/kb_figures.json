@@ -1,0 +1,10 @@
+[
+  {"id": "justice_system", "type": "tree", "root": "The Islamic system of administration of justice", "rootSub": "\"When you judge between people, judge with justice\" (An-Nisa 4:58)", "cols": 3, "children": [
+    {"title": "Sources of law", "color": "navy", "bullets": ["Quran and Sunnah", "Ijma and Qiyas", "Hadith of Mu'adh bin Jabal"]},
+    {"title": "Courts", "color": "teal", "bullets": ["Qada' — the qazi's court", "Mazalim — grievances against the State", "Hisbah — the muhtasib", "Tahkim — arbitration"]},
+    {"title": "The judge", "color": "purple", "bullets": ["Muslim, adult, sane, just, learned", "Independent and salaried (Umar)", "Equal treatment; no anger, no gifts"]},
+    {"title": "Procedure", "color": "orange", "bullets": ["Burden on the claimant; oath on the denier", "Hear both sides", "Review of own decision (Umar's letter)"]},
+    {"title": "Evidence", "color": "red", "bullets": ["Iqrar, shahadah, yamin, qasamah, qarinah", "Tazkiyah al-shuhood", "Doubts avert hadd"]},
+    {"title": "Punishment", "color": "green", "bullets": ["Hudood, qisas, diyat, ta'zir", "Deterrence, justice, reform", "Victim compensation and forgiveness"]}
+  ]}
+]
